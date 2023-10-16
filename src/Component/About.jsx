@@ -7,7 +7,9 @@ const About = () => {
         About
         <div className="row">
           <div className="col-md-12 text-center">
-            <h2 className="section-title"></h2>
+            <h2 className="section-title">
+                The Team
+            </h2>
           </div>
         </div>
       </div>
