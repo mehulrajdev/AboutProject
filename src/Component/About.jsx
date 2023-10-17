@@ -12,7 +12,10 @@ const About = () => {
           </div>
 
           <div className="col-sm-6 col-md-4">
-            <div className="team-item"></div>
+            <div className="team-item">
+                <img src="" className="team-img" alt="pic"/>
+                <h3>Bobby Kane</h3>
+            </div>
           </div>
         </div>
       </div>
