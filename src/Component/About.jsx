@@ -59,7 +59,7 @@ const About = () => {
           <div className={styles.linkHeading5}>Bobby Kane</div>
           <div className={styles.smallCto}>CTO</div>
           <div className={styles.divimg}>
-            <img className={styles.jpegIcon} alt="" src="" />
+            <img className={styles.jpegIcon} alt="" src="2.png" />
           </div>
         </div>
         <div className={styles.divteamCard2}>
