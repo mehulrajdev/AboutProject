@@ -10,6 +10,10 @@ const About = () => {
             <h2 className="section-title">The Team Work</h2>
             <p className="section-subtitle">{message}</p>
           </div>
+
+          <div className="col-sm-6 col-md-4">
+            <div className="team-item"></div>
+          </div>
         </div>
       </div>
     </section>
