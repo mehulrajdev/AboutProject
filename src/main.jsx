@@ -5,7 +5,7 @@ import About from './Component/About.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    {/* <App /> */}
+
     <About/>
   </React.StrictMode>,
 )
