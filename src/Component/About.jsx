@@ -18,7 +18,18 @@ const About = () => {
                 <div className="team-info">
                     <p>CEO Founder</p>
                     <ul className="team-icon">
-                        <li><a href=""></a></li>
+                        <li><a href="#">
+                            <i className="fa fa-twitter"></i>
+                            </a></li>
+                        <li><a href="#">
+                            <i className="fa fa-twitter"></i>
+                            </a></li>
+                        <li><a href="#">
+                            <i className="fa fa-twitter"></i>
+                            </a></li>
+                        <li><a href="#">
+                            <i className="fa fa-twitter"></i>
+                            </a></li>
                     </ul>
                 </div>
             </div>
