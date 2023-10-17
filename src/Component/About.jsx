@@ -66,14 +66,14 @@ const About = () => {
           <div className={styles.linkHeading6}>Robert Downey Jr</div>
           <div className={styles.smallProject1}>Project Manager</div>
           <div className={styles.divimg}>
-            <img className={styles.jpegIcon} alt="" src="" />
+            <img className={styles.jpegIcon} alt="" src="3.png" />
           </div>
         </div>
         <div className={styles.divteamCard3}>
           <div className={styles.linkHeading7}>Andrew Robertson</div>
           <div className={styles.smallMarketing1}>Marketing Leader</div>
           <div className={styles.divimg}>
-            <img className={styles.jpegIcon} alt="" src="" />
+            <img className={styles.jpegIcon} alt="" src="4.png" />
           </div>
         </div>
       </div>
