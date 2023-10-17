@@ -1,8 +1,8 @@
 import React from "react";
-import styles from './MainSection.module.css';
+import styles from "./MainSection.module.css";
 
 const About = () => {
-    // let message ='The Professional Creative Team for Growth-up Works'
+  // let message ='The Professional Creative Team for Growth-up Works'
   return (
     // <section className="section-white">
     //   <div className="container">
@@ -39,43 +39,45 @@ const About = () => {
     //   </div>
     // </section>
     <div className={styles.mainSection1}>
-<div className={styles.divcontainer1}>
-<div className={styles.small}>
-<div className={styles.theTeamWork1}>The Team Work</div>
-</div>
-<b className={styles.heading22}>{`Our `}</b>
-<b className={styles.heading23}>Leaders</b>
-<div className={styles.theProfessionalCreative1}>The Professional Creative Team for Growth-up Works</div>
-<div className={styles.divteamCard}>
-<div className={styles.linkHeading4}>Michael Edwards</div>
-<div className={styles.smallCeo}>CEO Founder</div>
-<div className={styles.divimg}>
-<img className={styles.jpegIcon} alt="" src="1.png" />
-</div>
-</div>
-<div className={styles.divteamCard1}>
-<div className={styles.linkHeading5}>Bobby Kane</div>
-<div className={styles.smallCto}>CTO</div>
-<div className={styles.divimg}>
-<img className={styles.jpegIcon} alt="" src="" />
-</div>
-</div>
-<div className={styles.divteamCard2}>
-<div className={styles.linkHeading6}>Robert Downey Jr</div>
-<div className={styles.smallProject1}>Project Manager</div>
-<div className={styles.divimg}>
-<img className={styles.jpegIcon} alt="" src="" />
-</div>
-</div>
-<div className={styles.divteamCard3}>
-<div className={styles.linkHeading7}>Andrew Robertson</div>
-<div className={styles.smallMarketing1}>Marketing Leader</div>
-<div className={styles.divimg}>
-<img className={styles.jpegIcon} alt="" src="" />
-</div>
-</div>
-</div>
-</div>
+      <div className={styles.divcontainer1}>
+        <div className={styles.small}>
+          <div className={styles.theTeamWork1}>The Team Work</div>
+        </div>
+        <b className={styles.heading22}>{`Our `}</b>
+        <b className={styles.heading23}>Leaders</b>
+        <div className={styles.theProfessionalCreative1}>
+          The Professional Creative Team for Growth-up Works
+        </div>
+        <div className={styles.divteamCard}>
+          <div className={styles.linkHeading4}>Michael Edwards</div>
+          <div className={styles.smallCeo}>CEO Founder</div>
+          <div className={styles.divimg}>
+            <img className={styles.jpegIcon} alt="" src="1.png" />
+          </div>
+        </div>
+        <div className={styles.divteamCard1}>
+          <div className={styles.linkHeading5}>Bobby Kane</div>
+          <div className={styles.smallCto}>CTO</div>
+          <div className={styles.divimg}>
+            <img className={styles.jpegIcon} alt="" src="" />
+          </div>
+        </div>
+        <div className={styles.divteamCard2}>
+          <div className={styles.linkHeading6}>Robert Downey Jr</div>
+          <div className={styles.smallProject1}>Project Manager</div>
+          <div className={styles.divimg}>
+            <img className={styles.jpegIcon} alt="" src="" />
+          </div>
+        </div>
+        <div className={styles.divteamCard3}>
+          <div className={styles.linkHeading7}>Andrew Robertson</div>
+          <div className={styles.smallMarketing1}>Marketing Leader</div>
+          <div className={styles.divimg}>
+            <img className={styles.jpegIcon} alt="" src="" />
+          </div>
+        </div>
+      </div>
+    </div>
   );
 };
 
