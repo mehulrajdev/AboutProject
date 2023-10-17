@@ -57,21 +57,21 @@ const About = () => {
 <div className={styles.linkHeading5}>Bobby Kane</div>
 <div className={styles.smallCto}>CTO</div>
 <div className={styles.divimg}>
-<img className={styles.jpegIcon} alt="" src="5.jpeg.png" />
+<img className={styles.jpegIcon} alt="" src="" />
 </div>
 </div>
 <div className={styles.divteamCard2}>
 <div className={styles.linkHeading6}>Robert Downey Jr</div>
 <div className={styles.smallProject1}>Project Manager</div>
 <div className={styles.divimg}>
-<img className={styles.jpegIcon} alt="" src="3.jpeg.png" />
+<img className={styles.jpegIcon} alt="" src="" />
 </div>
 </div>
 <div className={styles.divteamCard3}>
 <div className={styles.linkHeading7}>Andrew Robertson</div>
 <div className={styles.smallMarketing1}>Marketing Leader</div>
 <div className={styles.divimg}>
-<img className={styles.jpegIcon} alt="" src="4.jpeg.png" />
+<img className={styles.jpegIcon} alt="" src="" />
 </div>
 </div>
 </div>
