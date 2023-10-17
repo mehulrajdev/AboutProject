@@ -17,6 +17,9 @@ const About = () => {
                 <h3>Bobby Kane</h3>
                 <div className="team-info">
                     <p>CEO Founder</p>
+                    <ul className="team-icon">
+                        <li><a href=""></a></li>
+                    </ul>
                 </div>
             </div>
           </div>
