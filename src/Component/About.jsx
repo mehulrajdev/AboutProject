@@ -22,7 +22,7 @@ const About = () => {
                             <i className="fa fa-twitter"></i>
                             </a></li>
                         <li><a href="#">
-                            <i className="fa fa-twitter"></i>
+                            <i className="fa fa-facebook"></i>
                             </a></li>
                         <li><a href="#">
                             <i className="fa fa-twitter"></i>
