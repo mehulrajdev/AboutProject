@@ -7,7 +7,7 @@ const About = () => {
       <div className="container">
         <div className="row">
           <div className="col-md-12 text-center">
-            <h2 className="section-title">The Team Work</h2>
+            <h2 className="section-title">Our Leaders</h2>
             <p className="section-subtitle">{message}</p>
           </div>
 
@@ -15,6 +15,9 @@ const About = () => {
             <div className="team-item">
                 <img src="" className="team-img" alt="pic"/>
                 <h3>Bobby Kane</h3>
+                <div className="team-info">
+                    <p>CEO Founder</p>
+                </div>
             </div>
           </div>
         </div>
