@@ -19,10 +19,10 @@ const About = () => {
                     <p>CEO Founder</p>
                     <ul className="team-icon">
                         <li><a href="#">
-                            <i className="fa fa-twitter"></i>
+                            <i className="fab fa-twitter"></i>
                             </a></li>
                         <li><a href="#">
-                            <i className="fa fa-facebook"></i>
+                            <i className="fab fa-facebook"></i>
                             </a></li>
                         <li><a href="#">
                             <i className="fa fa-twitter"></i>
