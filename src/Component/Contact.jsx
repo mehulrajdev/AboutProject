@@ -15,13 +15,13 @@ const Contact = () => {
       <div className="divcontent">
         <div className="divcommunCard">
           <div className="divicon">
-            <img className="mail3dpngIcon1" alt="" src="mail3d.png.png" />
+            <img className="mail3dpngIcon1" alt="" src="mail3d.png" />
           </div>
           <b className="heading53">contact@Iteck.com</b>
         </div>
         <div className="divcommunCard1">
           <div className="divicon1">
-            <img className="map3dpngIcon1" alt="" src="map3d.png.png" />
+            <img className="map3dpngIcon1" alt="" src="map3d.png" />
           </div>
           <b className="heading54">58 Howard St, Toronto</b>
         </div>
