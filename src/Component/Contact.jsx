@@ -27,7 +27,7 @@ const Contact = () => {
         </div>
         <div className="divcommunCard2">
           <div className="divicon2">
-            <img className="msg3dpngIcon1" alt="" src="msg3d.png.png" />
+            <img className="msg3dpngIcon1" alt="" src="msg3d.png" />
           </div>
           <b className="heading55">(+23) 5535 68 68</b>
         </div>
