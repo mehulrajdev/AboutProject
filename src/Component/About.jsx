@@ -60,7 +60,7 @@ const About = () => {
             </a>{" "}
             <a href="#" className="me-1">
               <i className="fab fa-facebook-f"></i>
-            </a>{" "}
+            </a>
             <a href="#" className="me-1">
               <i className="fab fa-linkedin-in"></i>
             </a>
