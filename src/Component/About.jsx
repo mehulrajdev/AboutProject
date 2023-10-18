@@ -54,6 +54,7 @@ const About = () => {
           <div className={styles.divimg}>
             <img className={styles.jpegIcon} alt="" src="1.png" />
           </div>
+          <div className="social-icons"><a href="#" className="me-1"><i className="fab fa-twitter"></i></a> <a href="#" className="me-1"><i className="fab fa-facebook-f"></i></a> <a href="#" className="me-1"><i className="fab fa-linkedin-in"></i></a> <a href="#"><i className="fab fa-github"></i></a></div>
         </div>
         <div className={styles.divteamCard1}>
           <div className={styles.linkHeading5}>Bobby Kane</div>
