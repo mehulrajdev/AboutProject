@@ -1,4 +1,4 @@
-.contactUs {
+/* .contactUs {
     position: absolute;
     top: 7px;
     left: calc(50% - 30.87px);
@@ -8,8 +8,8 @@
     justify-content: center;
     width: 62.12px;
     height: 15px;
-}
-.small {
+} */
+/* .small {
     position: absolute;
     top: 0px;
     left: calc(50% - 40.87px);
@@ -30,13 +30,13 @@
     justify-content: center;
     width: 124.92px;
     height: 52px;
-}
+} */
 .heading23 {
-    position: absolute;
+    /* position: absolute;
     top: 50.39px;
     left: calc(50% + 1.55px);
     line-height: 52px;
-    display: flex;
+    display: flex; */
     background: linear-gradient(90deg, #501e9c, #8169f1 30%, #8169f1 30%, #a44cee 73%, #ff847f);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

@@ -4,11 +4,11 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <div className="mainSection1">
-      <div className="small">
-        <div className="contactUs">Contact us</div>
+      <div className="absolute left-[calc(50%_-_40.87px)] bg-[#f7f4ff] w-[81.73px] h-[30.39px] text-xs text-[#5842bc] rounded-[5px] top-0">
+        <div className="absolute left-[calc(50%_-_30.87px)] leading-[20.4px] flex items-center justify-center w-[62.12px] h-[15px] top-[7px]">Contact us</div>
       </div>
-      <b className="heading22">{`Get In `}</b>
-      <b className="heading23">Touch</b>
+      <b className="absolute left-[calc(50%_-_122.98px)] leading-[52px] flex items-center justify-center w-[124.92px] h-[52px] top-[50.39px]">{`Get In `}</b>
+      <b className="absolute leading-[52px] flex items-center justify-center w-[121.83px] h-[52px] left-[calc(50%_+_1.55px)] top-[50.39px]">Touch</b>
       <div className="weWillContact1">
         We will contact again after receive your request in 24h
       </div>
