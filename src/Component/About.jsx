@@ -57,7 +57,7 @@ const About = () => {
           <div className="social-icons">
             <a href="#" className="me-1">
               <i className="fab fa-twitter"></i>
-            </a>{" "}
+            </a>
             <a href="#" className="me-1">
               <i className="fab fa-facebook-f"></i>
             </a>
