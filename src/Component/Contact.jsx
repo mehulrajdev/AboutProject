@@ -9,10 +9,10 @@ const Contact = () => {
       </div>
       <b className="heading22">{`Get In `}</b>
       <b className="heading23">Touch</b>
-      {/* <div className="">
+      <div className="weWillContact1">
         We will contact again after receive your request in 24h
-      </div> */}
-      {/* <div className="">
+      </div>
+      {/* <div className="divcontent">
         <div className=".divcommunCard}">
           <div className=".divicon}">
             <img className=".mail3dpngIcon1}" alt="" src="mail3d.png.png" />
