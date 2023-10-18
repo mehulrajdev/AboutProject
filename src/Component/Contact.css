@@ -1,0 +1,189 @@
+.contactUs {
+    position: absolute;
+    top: 7px;
+    left: calc(50% - 30.87px);
+    line-height: 20.4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 62.12px;
+    height: 15px;
+}
+.small {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 40.87px);
+    border-radius: 5px;
+    background-color: #f7f4ff;
+    width: 81.73px;
+    height: 30.39px;
+    font-size: 12px;
+    color: #5842bc;
+}
+.heading22 {
+    position: absolute;
+    top: 50.39px;
+    left: calc(50% - 122.98px);
+    line-height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 124.92px;
+    height: 52px;
+}
+.heading23 {
+    position: absolute;
+    top: 50.39px;
+    left: calc(50% + 1.55px);
+    line-height: 52px;
+    display: flex;
+    background: linear-gradient(90deg, #501e9c, #8169f1 30%, #8169f1 30%, #a44cee 73%, #ff847f);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    align-items: center;
+    justify-content: center;
+    width: 121.83px;
+    height: 52px;
+}
+.weWillContact1 {
+    position: absolute;
+    top: 122.39px;
+    left: calc(50% - 179.8px);
+    font-size: 14px;
+    line-height: 23.8px;
+    color: #212529;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 359.93px;
+    height: 23.8px;
+}
+.mail3dpngIcon1 {
+    position: absolute;
+    top: calc(50% - 22.42px);
+    left: 0.1px;
+    width: 44.8px;
+    height: 37.33px;
+    object-fit: cover;
+}
+.divicon {
+    position: absolute;
+    top: calc(50% - 22.5px);
+    left: calc(50% - 131.88px);
+    width: 45px;
+    height: 45px;
+}
+.heading53 {
+    position: absolute;
+    top: 21.5px;
+    left: 125.88px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    width: 193.13px;
+    height: 22px;
+}
+.divcommunCard {
+    position: absolute;
+    height: calc(100% - 42px);
+    width: calc(100% - 764.47px);
+    top: 21px;
+    right: 763.47px;
+    bottom: 21px;
+    left: 1px;
+    border-right: 1px solid rgba(153, 153, 153, 0.2);
+    box-sizing: border-box;
+}
+.map3dpngIcon1 {
+    position: absolute;
+    top: calc(50% - 22.4px);
+    left: 0.06px;
+    width: 27.86px;
+    height: 44.8px;
+    object-fit: cover;
+}
+.divicon1 {
+    position: absolute;
+    top: calc(50% - 22.5px);
+    left: calc(50% - 144.76px);
+    width: 45px;
+    height: 45px;
+}
+.heading54 {
+    position: absolute;
+    top: 21.5px;
+    left: 113px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    width: 218.9px;
+    height: 22px;
+}
+.divcommunCard1 {
+    position: absolute;
+    height: calc(100% - 42px);
+    width: calc(100% - 764.47px);
+    top: 21px;
+    right: 387.94px;
+    bottom: 21px;
+    left: 376.53px;
+    border-right: 1px solid rgba(153, 153, 153, 0.2);
+    box-sizing: border-box;
+}
+.msg3dpngIcon1 {
+    position: absolute;
+    top: calc(50% - 22.41px);
+    left: 0.11px;
+    width: 44.8px;
+    height: 39.76px;
+    object-fit: cover;
+}
+.divicon2 {
+    position: absolute;
+    top: calc(50% - 22.5px);
+    left: calc(50% - 121.99px);
+    width: 45px;
+    height: 45px;
+}
+.heading55 {
+    position: absolute;
+    top: 21.5px;
+    left: 135.78px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    width: 174.29px;
+    height: 22px;
+}
+.divcommunCard2 {
+    position: absolute;
+    height: calc(100% - 42px);
+    width: calc(100% - 764.47px);
+    top: 21px;
+    right: 12.41px;
+    bottom: 21px;
+    left: 752.06px;
+}
+.divcontent {
+    position: absolute;
+    width: calc(100% - 30px);
+    top: 186.19px;
+    right: 15px;
+    left: 15px;
+    border-radius: 800px;
+    border: 1px solid rgba(153, 153, 153, 0.2);
+    box-sizing: border-box;
+    height: 107px;
+    text-align: left;
+    font-size: 20px;
+}
+.mainSection1 {
+    position: relative;
+    width: 100%;
+    height: 293.19px;
+    text-align: center;
+    font-size: 40px;
+    color: #000;
+    font-family: Inter;
+}
+

@@ -1,17 +1,18 @@
 import React from "react";
+import "./Contact.css";
 
 const Contact = () => {
   return (
-    <div className="h">
-      <div className="">
-        <div className="">Contact us</div>
+    <div className="mainSection1">
+      <div className="small">
+        <div className="contactUs">Contact us</div>
       </div>
-      <b className="">{`Get In `}</b>
-      <b className="">Touch</b>
-      <div className="">
+      <b className="heading22">{`Get In `}</b>
+      <b className="heading23">Touch</b>
+      {/* <div className="">
         We will contact again after receive your request in 24h
-      </div>
-      <div className="">
+      </div> */}
+      {/* <div className="">
         <div className=".divcommunCard}">
           <div className=".divicon}">
             <img className=".mail3dpngIcon1}" alt="" src="mail3d.png.png" />
@@ -30,7 +31,7 @@ const Contact = () => {
           </div>
           <b className=".heading55}">(+23) 5535 68 68</b>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };
