@@ -37,6 +37,7 @@ const About = () => {
     //     </div>
     //   </div>
     // </section>
+    <div>
     <div className="mainSection1">
       <div className="divcontainer1">
         <div className="small">
@@ -90,6 +91,7 @@ const About = () => {
           </div>
         </div>
       </div>
+    </div>
     </div>
   );
 };
