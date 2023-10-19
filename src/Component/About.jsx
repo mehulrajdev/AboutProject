@@ -1,5 +1,4 @@
 import React from "react";
-import  from "./MainSection.module.css";
 import "./about.css";
 const About = () => {
   // let message ='The Professional Creative Team for Growth-up Works'
@@ -41,18 +40,18 @@ const About = () => {
     <div className="mainSection1">
       <div className="divcontainer1">
         <div className="small">
-          <div className={.theTeamWork1}>The Team Work</div>
+          <div className="theTeamWork1">The Team Work</div>
         </div>
-        <b className={.heading22}>{`Our `}</b>
-        <b className={.heading23}>Leaders</b>
-        <div className={.theProfessionalCreative1}>
+        <b className="heading22">{`Our `}</b>
+        <b className="heading23">Leaders</b>
+        <div className="theProfessionalCreative1">
           The Professional Creative Team for Growth-up Works
         </div>
-        <div className={.divteamCard}>
-          <div className={.linkHeading4}>Michael Edwards</div>
-          <div className={.smallCeo}>CEO Founder</div>
-          <div className={.divimg}>
-            <img className={.jpegIcon} alt="" src="1.png" />
+        <div className="divteamCard">
+          <div className="linkHeading4">Michael Edwards</div>
+          <div className="smallCeo">CEO Founder</div>
+          <div className="divimg">
+            <img className="jpegIcon" alt="" src="1.png" />
           </div>
           <div className="social-icons">
             <a href="#" className="me-1">
@@ -69,7 +68,7 @@ const About = () => {
             </a>
           </div>
         </div>
-        <div className={.divteamCard1}>
+        <div className="divteamCard1">
           <div className={.linkHeading5}>Bobby Kane</div>
           <div className={.smallCto}>CTO</div>
           <div className={.divimg}>
