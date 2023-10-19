@@ -33,12 +33,12 @@
   height: 52px;
 } */
 .heading23 {
-  position: absolute;
+  /* position: absolute;
   top: 50.39px;
   left: calc(50% - 38.09px);
   font-size: 40px;
   line-height: 52px;
-  display: flex;
+  display: flex; */
   background: linear-gradient(
     90deg,
     #501e9c,
