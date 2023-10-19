@@ -46,7 +46,7 @@ const About = () => {
             </div>
           </div>
           <b className="absolute left-[calc(50%_-_119.87px)] text-[40px] leading-[52px] flex items-center justify-center w-[82.11px] h-[52px] top-[50.39px]">{`Our `}</b>
-          <b className="absolute left-[calc(50%_-_38.09px)] text-[40px] leading-[52px] flex items-center justify-center w-[158.29px] h-[52px] top-[50.39px]">
+          <b className="absolute left-[calc(50%_-_38.09px)] text-[40px] leading-[52px] flex items-center justify-center w-[158.29px] h-[52px] top-[50.39px] lead">
             Leaders
           </b>
           <div className="absolute left-[calc(50%_-_176.03px)] text-sm leading-[23.8px] text-[#212529] flex items-center justify-center w-[352.4px] h-[23.8px] top-[122.39px]">
