@@ -59,7 +59,7 @@ const About = () => {
             >
               <div className="absolute left-[calc(50%_-_61.78px)] leading-[21px] font-semibold flex items-center justify-center w-[123.95px] h-[21px] top-[360px]">Michael Edwards</div>
               <div className="absolute left-[calc(50%_-_40.66px)] text-[13px] leading-[22.1px] text-[#999] flex items-center justify-center w-[81.63px] h-4 top-96">CEO Founder</div>
-              <div className="divimg">
+              <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
                 <img className="jpegIcon" alt="" src="1.png" />
               </div>
               <div className="social-icons">
@@ -80,21 +80,21 @@ const About = () => {
             <div className="divteamCard1">
               <div className="linkHeading5">Bobby Kane</div>
               <div className="smallCto">CTO</div>
-              <div className="divimg">
+              <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
                 <img className="jpegIcon" alt="" src="2.png" />
               </div>
             </div>
             <div className="divteamCard2">
               <div className="linkHeading6">Robert Downey Jr</div>
               <div className="smallProject1">Project Manager</div>
-              <div className="divimg">
+              <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
                 <img className="jpegIcon" alt="" src="3.png" />
               </div>
             </div>
             <div className="divteamCard3">
               <div className="linkHeading7">Andrew Robertson</div>
               <div className="smallMarketing1">Marketing Leader</div>
-              <div className="divimg">
+              <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
                 <img className="jpegIcon" alt="" src="4.png" />
               </div>
             </div>
