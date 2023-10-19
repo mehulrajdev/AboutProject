@@ -69,10 +69,10 @@ const About = () => {
           </div>
         </div>
         <div className="divteamCard1">
-          <div className={.linkHeading5}>Bobby Kane</div>
-          <div className={.smallCto}>CTO</div>
-          <div className={.divimg}>
-            <img className={.jpegIcon} alt="" src="2.png" />
+          <div className="linkHeading5">Bobby Kane</div>
+          <div className="smallCto">CTO</div>
+          <div className="divimg">
+            <img className="jpegIcon" alt="" src="2.png" />
           </div>
         </div>
         <div className={.divteamCard2}>
@@ -84,9 +84,9 @@ const About = () => {
         </div>
         <div className={.divteamCard3}>
           <div className={.linkHeading7}>Andrew Robertson</div>
-          <div className={.smallMarketing1}>Marketing Leader</div>
-          <div className={.divimg}>
-            <img className={.jpegIcon} alt="" src="4.png" />
+          <div className="smallMarketing1">Marketing Leader</div>
+          <div className="divimg">
+            <img className="jpegIcon" alt="" src="4.png" />
           </div>
         </div>
       </div>
