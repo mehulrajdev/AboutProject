@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./MainSection.module.css";
-
+import "./about.css";
 const About = () => {
   // let message ='The Professional Creative Team for Growth-up Works'
   return (
