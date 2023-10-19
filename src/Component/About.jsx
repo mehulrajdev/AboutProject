@@ -45,11 +45,12 @@ const About = () => {
           </div>
           <b className="absolute left-[calc(50%_-_119.87px)] text-[40px] leading-[52px] flex items-center justify-center w-[82.11px] h-[52px] top-[50.39px]">{`Our `}</b>
           <b className="absolute left-[calc(50%_-_38.09px)] text-[40px] leading-[52px] flex items-center justify-center w-[158.29px] h-[52px] top-[50.39px]">Leaders</b>
-          <div className="theProfessionalCreative1">
+          <div className="absolute left-[calc(50%_-_176.03px)] text-sm leading-[23.8px] text-[#212529] flex items-center justify-center w-[352.4px] h-[23.8px] top-[122.39px]">
             The Professional Creative Team for Growth-up Works
           </div>
           <div>
-            <div className="divteamCard">
+            <div className="
+  @apply absolute w-[calc(100%_-_907.5px)] bg-white h-[428.09px] rounded-[20px] left-[15px] right-[892.5px] top-[206.18px]">
               <div className="linkHeading4">Michael Edwards</div>
               <div className="smallCeo">CEO Founder</div>
               <div className="divimg">
