@@ -9,7 +9,7 @@
   width: 88.75px;
   height: 15px;
 }
-.small {
+/* .small {
   position: absolute;
   top: 0px;
   left: calc(50% - 54.2px);
@@ -19,7 +19,7 @@
   height: 30.39px;
   font-size: 12px;
   color: #5842bc;
-}
+} */
 .heading22 {
   position: absolute;
   top: 50.39px;
