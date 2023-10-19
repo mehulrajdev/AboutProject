@@ -37,7 +37,7 @@ const About = () => {
     //     </div>
     //   </div>
     // </section>
-    <div>
+    <div className="p-6">
     <div className="mainSection1">
       <div className="divcontainer1">
         <div className="small">
