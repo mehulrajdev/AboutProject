@@ -43,7 +43,7 @@ const About = () => {
           <div className="absolute left-[calc(50%_-_54.2px)] bg-[#f7f4ff] w-[108.41px] h-[30.39px] text-xs text-[#5842bc] rounded-[5px] top-0">
             <div className="absolute left-[calc(50%_-_44.21px)] leading-[20.4px] flex items-center justify-center w-[88.75px] h-[15px] top-[7px]">The Team Work</div>
           </div>
-          <b className="heading22">{`Our `}</b>
+          <b className="absolute left-[calc(50%_-_119.87px)] text-[40px] leading-[52px] flex items-center justify-center w-[82.11px] h-[52px] top-[50.39px]">{`Our `}</b>
           <b className="heading23">Leaders</b>
           <div className="theProfessionalCreative1">
             The Professional Creative Team for Growth-up Works
