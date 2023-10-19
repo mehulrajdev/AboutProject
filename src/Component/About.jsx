@@ -77,9 +77,9 @@ const About = () => {
         </div>
         <div className="divteamCard2">
           <div className="linkHeading6">Robert Downey Jr</div>
-          <div className={.smallProject1}>Project Manager</div>
-          <div className={.divimg}>
-            <img className={.jpegIcon} alt="" src="3.png" />
+          <div className="smallProject1">Project Manager</div>
+          <div className="divimg">
+            <img className="jpegIcon" alt="" src="3.png" />
           </div>
         </div>
         <div className="divteamCard3">
