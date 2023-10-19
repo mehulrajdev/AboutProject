@@ -1,11 +1,5 @@
 
 .heading23 {
-  /* position: absolute;
-  top: 50.39px;
-  left: calc(50% - 38.09px);
-  font-size: 40px;
-  line-height: 52px;
-  display: flex; */
   background: linear-gradient(
     90deg,
     #501e9c,
@@ -16,10 +10,6 @@
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  /* align-items: center;
-  justify-content: center;
-  width: 158.29px;
-  height: 52px; */
 }
 
 .smallProject1 {
