@@ -57,10 +57,18 @@ const About = () => {
               className="
   @apply absolute w-[calc(100%_-_907.5px)] bg-white h-[428.09px] rounded-[20px] left-[15px] right-[892.5px] top-[206.18px]"
             >
-              <div className="absolute left-[calc(50%_-_61.78px)] leading-[21px] font-semibold flex items-center justify-center w-[123.95px] h-[21px] top-[360px]">Michael Edwards</div>
-              <div className="absolute left-[calc(50%_-_40.66px)] text-[13px] leading-[22.1px] text-[#999] flex items-center justify-center w-[81.63px] h-4 top-96">CEO Founder</div>
+              <div className="absolute left-[calc(50%_-_61.78px)] leading-[21px] font-semibold flex items-center justify-center w-[123.95px] h-[21px] top-[360px]">
+                Michael Edwards
+              </div>
+              <div className="absolute left-[calc(50%_-_40.66px)] text-[13px] leading-[22.1px] text-[#999] flex items-center justify-center w-[81.63px] h-4 top-96">
+                CEO Founder
+              </div>
               <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
-                <img className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover" alt="" src="1.png" />
+                <img
+                  className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover"
+                  alt=""
+                  src="1.png"
+                />
               </div>
               <div className="social-icons">
                 <a href="#" className="me-1">
@@ -78,24 +86,42 @@ const About = () => {
               </div>
             </div>
             <div className="absolute w-[calc(100%_-_907.5px)] bg-white h-[428.09px] rounded-[20px] left-[307.5px] right-[600px] top-[206.18px]">
-              <div className="absolute left-[calc(50%_-_43.39px)] leading-[21px] font-semibold flex items-center justify-center w-[87.11px] h-[21px] top-[360px]">Bobby Kane</div>
-              <div className="absolute left-[calc(50%_-_13.66px)] text-[13px] leading-[22.1px] text-[#999] flex items-center justify-center w-[27.67px] h-4 top-96">CTO</div>
+              <div className="absolute left-[calc(50%_-_43.39px)] leading-[21px] font-semibold flex items-center justify-center w-[87.11px] h-[21px] top-[360px]">
+                Bobby Kane
+              </div>
+              <div className="absolute left-[calc(50%_-_13.66px)] text-[13px] leading-[22.1px] text-[#999] flex items-center justify-center w-[27.67px] h-4 top-96">
+                CTO
+              </div>
               <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
-                <img className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover" alt="" src="2.png" />
+                <img
+                  className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover"
+                  alt=""
+                  src="2.png"
+                />
               </div>
             </div>
             <div className="divteamCard2">
-              <div className="absolute left-[calc(50%_-_64.89px)] leading-[21px] font-semibold flex items-center justify-center w-[130.07px] h-[21px] top-[360px]">Robert Downey Jr</div>
+              <div className="absolute left-[calc(50%_-_64.89px)] leading-[21px] font-semibold flex items-center justify-center w-[130.07px] h-[21px] top-[360px]">
+                Robert Downey Jr
+              </div>
               <div className="smallProject1">Project Manager</div>
               <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
-                <img className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover" alt="" src="3.png" />
+                <img
+                  className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover"
+                  alt=""
+                  src="3.png"
+                />
               </div>
             </div>
             <div className="divteamCard3">
               <div className="linkHeading7">Andrew Robertson</div>
               <div className="smallMarketing1">Marketing Leader</div>
               <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
-                <img className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover" alt="" src="4.png" />
+                <img
+                  className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover"
+                  alt=""
+                  src="4.png"
+                />
               </div>
             </div>
           </div>
