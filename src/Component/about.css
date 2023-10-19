@@ -1,37 +1,4 @@
-/* .theTeamWork1 {
-  position: absolute;
-  top: 7px;
-  left: calc(50% - 44.21px);
-  line-height: 20.4px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 88.75px;
-  height: 15px;
-} */
-/* .small {
-  position: absolute;
-  top: 0px;
-  left: calc(50% - 54.2px);
-  border-radius: 5px;
-  background-color: #f7f4ff;
-  width: 108.41px;
-  height: 30.39px;
-  font-size: 12px;
-  color: #5842bc;
-} */
-/* .heading22 {
-  position: absolute;
-  top: 50.39px;
-  left: calc(50% - 119.87px);
-  font-size: 40px;
-  line-height: 52px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 82.11px;
-  height: 52px;
-} */
+
 .heading23 {
   /* position: absolute;
   top: 50.39px;
@@ -54,19 +21,6 @@
   width: 158.29px;
   height: 52px; */
 }
-/* .theProfessionalCreative1 {
-  position: absolute;
-  top: 122.39px;
-  left: calc(50% - 176.03px);
-  font-size: 14px;
-  line-height: 23.8px;
-  color: #212529;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 352.4px;
-  height: 23.8px;
-} */
 .linkHeading4 {
   position: absolute;
   top: 360px;
@@ -110,16 +64,7 @@
   height: 320px;
   overflow: hidden;
 }
-/* .divteamCard {
-  position: absolute;
-  width: calc(100% - 907.5px);
-  top: 206.18px;
-  right: 892.5px;
-  left: 15px;
-  border-radius: 20px;
-  background-color: #fff;
-  height: 428.09px;
-} */
+
 .linkHeading5 {
   position: absolute;
   top: 360px;
