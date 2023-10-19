@@ -57,7 +57,7 @@ const About = () => {
               className="
   @apply absolute w-[calc(100%_-_907.5px)] bg-white h-[428.09px] rounded-[20px] left-[15px] right-[892.5px] top-[206.18px]"
             >
-              <div className="linkHeading4">Michael Edwards</div>
+              <div className="absolute left-[calc(50%_-_61.78px)] leading-[21px] font-semibold flex items-center justify-center w-[123.95px] h-[21px] top-[360px]">Michael Edwards</div>
               <div className="smallCeo">CEO Founder</div>
               <div className="divimg">
                 <img className="jpegIcon" alt="" src="1.png" />
