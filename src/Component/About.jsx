@@ -58,7 +58,7 @@ const About = () => {
   @apply absolute w-[calc(100%_-_907.5px)] bg-white h-[428.09px] rounded-[20px] left-[15px] right-[892.5px] top-[206.18px]"
             >
               <div className="absolute left-[calc(50%_-_61.78px)] leading-[21px] font-semibold flex items-center justify-center w-[123.95px] h-[21px] top-[360px]">Michael Edwards</div>
-              <div className="smallCeo">CEO Founder</div>
+              <div className="absolute left-[calc(50%_-_40.66px)] text-[13px] leading-[22.1px] text-[#999] flex items-center justify-center w-[81.63px] h-4 top-96">CEO Founder</div>
               <div className="divimg">
                 <img className="jpegIcon" alt="" src="1.png" />
               </div>
