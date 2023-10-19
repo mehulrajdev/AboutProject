@@ -77,9 +77,9 @@ const About = () => {
                 </a>
               </div>
             </div>
-            <div className="divteamCard1">
+            <div className="absolute w-[calc(100%_-_907.5px)] bg-white h-[428.09px] rounded-[20px] left-[307.5px] right-[600px] top-[206.18px]">
               <div className="absolute left-[calc(50%_-_43.39px)] leading-[21px] font-semibold flex items-center justify-center w-[87.11px] h-[21px] top-[360px]">Bobby Kane</div>
-              <div className="smallCto">CTO</div>
+              <div className="absolute left-[calc(50%_-_13.66px)] text-[13px] leading-[22.1px] text-[#999] flex items-center justify-center w-[27.67px] h-4 top-96">CTO</div>
               <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
                 <img className="absolute top-[calc(50%_-_160px)] left-[calc(50%_-_116.25px)] w-[232.5px] h-80 object-cover" alt="" src="2.png" />
               </div>
