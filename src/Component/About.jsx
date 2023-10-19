@@ -41,16 +41,22 @@ const About = () => {
       <div className="mainSection1">
         <div className="divcontainer1">
           <div className="absolute left-[calc(50%_-_54.2px)] bg-[#f7f4ff] w-[108.41px] h-[30.39px] text-xs text-[#5842bc] rounded-[5px] top-0">
-            <div className="absolute left-[calc(50%_-_44.21px)] leading-[20.4px] flex items-center justify-center w-[88.75px] h-[15px] top-[7px]">The Team Work</div>
+            <div className="absolute left-[calc(50%_-_44.21px)] leading-[20.4px] flex items-center justify-center w-[88.75px] h-[15px] top-[7px]">
+              The Team Work
+            </div>
           </div>
           <b className="absolute left-[calc(50%_-_119.87px)] text-[40px] leading-[52px] flex items-center justify-center w-[82.11px] h-[52px] top-[50.39px]">{`Our `}</b>
-          <b className="absolute left-[calc(50%_-_38.09px)] text-[40px] leading-[52px] flex items-center justify-center w-[158.29px] h-[52px] top-[50.39px]">Leaders</b>
+          <b className="absolute left-[calc(50%_-_38.09px)] text-[40px] leading-[52px] flex items-center justify-center w-[158.29px] h-[52px] top-[50.39px]">
+            Leaders
+          </b>
           <div className="absolute left-[calc(50%_-_176.03px)] text-sm leading-[23.8px] text-[#212529] flex items-center justify-center w-[352.4px] h-[23.8px] top-[122.39px]">
             The Professional Creative Team for Growth-up Works
           </div>
           <div>
-            <div className="
-  @apply absolute w-[calc(100%_-_907.5px)] bg-white h-[428.09px] rounded-[20px] left-[15px] right-[892.5px] top-[206.18px]">
+            <div
+              className="
+  @apply absolute w-[calc(100%_-_907.5px)] bg-white h-[428.09px] rounded-[20px] left-[15px] right-[892.5px] top-[206.18px]"
+            >
               <div className="linkHeading4">Michael Edwards</div>
               <div className="smallCeo">CEO Founder</div>
               <div className="divimg">
