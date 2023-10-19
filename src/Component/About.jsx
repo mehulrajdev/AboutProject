@@ -75,15 +75,15 @@ const About = () => {
             <img className="jpegIcon" alt="" src="2.png" />
           </div>
         </div>
-        <div className={.divteamCard2}>
-          <div className={.linkHeading6}>Robert Downey Jr</div>
+        <div className="divteamCard2">
+          <div className="linkHeading6">Robert Downey Jr</div>
           <div className={.smallProject1}>Project Manager</div>
           <div className={.divimg}>
             <img className={.jpegIcon} alt="" src="3.png" />
           </div>
         </div>
-        <div className={.divteamCard3}>
-          <div className={.linkHeading7}>Andrew Robertson</div>
+        <div className="divteamCard3">
+          <div className="linkHeading7">Andrew Robertson</div>
           <div className="smallMarketing1">Marketing Leader</div>
           <div className="divimg">
             <img className="jpegIcon" alt="" src="4.png" />
