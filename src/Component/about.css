@@ -22,18 +22,6 @@
   height: 52px; */
 }
 
-. {
-  position: absolute;
-  top: 360px;
-  left: calc(50% - 64.89px);
-  line-height: 21px;
-  font-weight: 600;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 130.07px;
-  height: 21px;
-}
 .smallProject1 {
   position: absolute;
   top: 384px;
