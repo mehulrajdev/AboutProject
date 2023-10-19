@@ -49,10 +49,10 @@
   );
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  align-items: center;
+  /* align-items: center;
   justify-content: center;
   width: 158.29px;
-  height: 52px;
+  height: 52px; */
 }
 .theProfessionalCreative1 {
   position: absolute;
