@@ -21,25 +21,6 @@
   width: 158.29px;
   height: 52px; */
 }
-.jpegIcon {
-  position: absolute;
-  top: calc(50% - 160px);
-  left: calc(50% - 116.25px);
-  width: 232.5px;
-  height: 320px;
-  object-fit: cover;
-}
-/* .divimg {
-  position: absolute;
-  width: calc(100% - 30px);
-  top: 15px;
-  right: 15px;
-  left: 15px;
-  border-radius: 15px;
-  height: 320px;
-  overflow: hidden;
-} */
-
 .linkHeading5 {
   position: absolute;
   top: 360px;
