@@ -74,6 +74,37 @@ const About = () => {
               </div>
             </div>
           </div>
+          <div className="col-sm-6 col-md-4">
+            <div className="team-item">
+              <img src="2.png" className="team-img" alt="pic" />
+              <h3>Bobby Kane</h3>
+              <div className="team-info">
+                <p>CEO Founder</p>
+                <ul className="team-icon">
+                  <li>
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i className="fab fa-facebook"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
