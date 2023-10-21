@@ -43,7 +43,7 @@ const About = () => {
                   </div>
                 </div>
                 <div className="p-4">
-                  <h6>Bobby Kane</h6>
+                  <h6 className="text-[#6640f4]">Bobby Kane</h6>
                   
                     <small>CEO Founder</small>
                   
