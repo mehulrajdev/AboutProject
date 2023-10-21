@@ -46,7 +46,7 @@ const About = () => {
                 </div>
               </div></div>
               <div className="col"><div className="team-item">
-                <img src="1.png" className="team-img" alt="pic" />
+                <img src="2.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
                 <div className="team-info">
                   <p>CEO Founder</p>
