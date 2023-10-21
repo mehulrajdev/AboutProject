@@ -1,4 +1,4 @@
-/* .lead {
+ .lead {
   background: linear-gradient(
     90deg,
     #501e9c,
@@ -11,7 +11,7 @@
   -webkit-text-fill-color: transparent;
   font-weight:bolder ;
 }
-
+/*
 .smallProject1 {
   position: absolute;
   top: 384px;
