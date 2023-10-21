@@ -16,7 +16,7 @@ const About = () => {
           </div>
 
           <div className="row">
-            <div className="col">
+            <div className="col-lg-3 col-sm-6">
               <div className="team-item">
                 <img src="1.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
