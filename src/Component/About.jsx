@@ -16,7 +16,7 @@ const About = () => {
           </div>
 
           <div>
-            <div className="col-sm-6 col-md-4">
+            <div className="">
               <div className="team-item">
                 <img src="1.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
@@ -47,7 +47,7 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div className="col-sm-6 col-md-4">
+            <div className="">
               <div className="team-item">
                 <img src="1.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
@@ -78,7 +78,7 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div className="col-sm-6 col-md-4">
+            <div className="">
               <div className="team-item">
                 <img src="3.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
@@ -109,7 +109,7 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div className="col-sm-6 col-md-4">
+            <div className="">
               <div className="team-item">
                 <img src="3.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
