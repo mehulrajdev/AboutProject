@@ -11,6 +11,15 @@
   -webkit-text-fill-color: transparent;
   font-weight:bolder ;
 }
+.team-item  {
+  text-align: center;
+  padding: 15px;
+  background-color: #fff;
+  border-radius: 20px;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
 /*
 .smallProject1 {
   position: absolute;
