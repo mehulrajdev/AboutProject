@@ -20,7 +20,7 @@ const About = () => {
               <div className="team-item mb-32 mb-lg-0 ">
                 <div className="h-[320px] rounded-2xl overflow-hidden relative">
                   <img src="1.png" className="w-full object-cover h-full" alt="pic" />
-                  <div className="team-icon">
+                  <div className="absolute left-0 bottom-0 w-full p-5">
                     <li>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
