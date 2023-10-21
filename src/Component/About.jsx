@@ -11,7 +11,7 @@ const About = () => {
           </h2>
           <div className="col-md-12 text-center">
             <b className="text-[40px] leading-[52px]">Our </b>
-            <b className="ext-[40px] leading-[52px]">Leaders</b>
+            <b className="text-[40px] leading-[52px]">Leaders</b>
             <p className="section-subtitle">{message}</p>
           </div>
 
