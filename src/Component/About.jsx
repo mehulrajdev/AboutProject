@@ -3,40 +3,40 @@ import "./about.css";
 const About = () => {
   // let message ='The Professional Creative Team for Growth-up Works'
   return (
-    // <section className="section-white">
-    //   <div className="container">
-    //     <div className="row">
-    //       <div className="col-md-12 text-center">
-    //         <h2 className="section-title">Our Leaders</h2>
-    //         <p className="section-subtitle">{message}</p>
-    //       </div>
+    <section className="section-white">
+      <div className="container">
+        <div className="row">
+          <div className="col-md-12 text-center">
+            <h2 className="section-title">Our Leaders</h2>
+            <p className="section-subtitle">{message}</p>
+          </div>
 
-    //       <div className="col-sm-6 col-md-4">
-    //         <div className="team-item">
-    //             <img src="1.png" className="team-img" alt="pic"/>
-    //             <h3>Bobby Kane</h3>
-    //             <div className="team-info">
-    //                 <p>CEO Founder</p>
-    //                 <ul className="team-icon">
-    //                     <li><a href="#">
-    //                         <i className="fab fa-twitter"></i>
-    //                         </a></li>
-    //                     <li><a href="#">
-    //                         <i className="fab fa-facebook"></i>
-    //                         </a></li>
-    //                     <li><a href="#">
-    //                         <i className="fa fa-twitter"></i>
-    //                         </a></li>
-    //                     <li><a href="#">
-    //                         <i className="fa fa-twitter"></i>
-    //                         </a></li>
-    //                 </ul>
-    //             </div>
-    //         </div>
-    //       </div>
-    //     </div>
-    //   </div>
-    // </section>
+          <div className="col-sm-6 col-md-4">
+            <div className="team-item">
+                <img src="1.png" className="team-img" alt="pic"/>
+                <h3>Bobby Kane</h3>
+                <div className="team-info">
+                    <p>CEO Founder</p>
+                    <ul className="team-icon">
+                        <li><a href="#">
+                            <i className="fab fa-twitter"></i>
+                            </a></li>
+                        <li><a href="#">
+                            <i className="fab fa-facebook"></i>
+                            </a></li>
+                        <li><a href="#">
+                            <i className="fa fa-twitter"></i>
+                            </a></li>
+                        <li><a href="#">
+                            <i className="fa fa-twitter"></i>
+                            </a></li>
+                    </ul>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
   //   <div className="p-6">
   //     <div className="mainSection1">
   //       <div className="divcontainer1">
