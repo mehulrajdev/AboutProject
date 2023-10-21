@@ -19,38 +19,35 @@ const About = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="team-item mb-32 mb-lg-0 ">
                 <div className="h-[320px] rounded-2xl overflow-hidden relative">
-                  <img src="1.png" className="w-full object-cover h-full" alt="pic" />
+                  <img
+                    src="1.png"
+                    className="w-full object-cover h-full"
+                    alt="pic"
+                  />
                   <div className="absolute left-0 bottom-0 w-full p-5 z-[5]">
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-facebook"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
                   </div>
-                  </div>
+                </div>
                 <div>
                   <h3>Bobby Kane</h3>
-                <div className="team-info">
-                  <p>CEO Founder</p>
-                 
+                  <div className="team-info">
+                    <p>CEO Founder</p>
+                  </div>
                 </div>
-                </div>
-                
               </div>
             </div>
             <div className="col-lg-3 col-sm-6">
@@ -58,36 +55,29 @@ const About = () => {
                 <div className="h-[320px] rounded-2xl overflow-hidden">
                   <img src="2.png" className="team-img" alt="pic" />
                   <div className="team-icon">
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-facebook"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
                   </div>
-                  </div>
+                </div>
                 <div>
                   <h3>Bobby Kane</h3>
-                <div className="team-info">
-                  <p>CEO Founder</p>
-                 
+                  <div className="team-info">
+                    <p>CEO Founder</p>
+                  </div>
                 </div>
-                </div>
-                
               </div>
             </div>
             <div className="col-lg-3 col-sm-6">
@@ -95,36 +85,29 @@ const About = () => {
                 <div className="h-[320px] rounded-2xl overflow-hidden">
                   <img src="3.png" className="team-img" alt="pic" />
                   <div className="team-icon">
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-facebook"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
                   </div>
-                  </div>
+                </div>
                 <div>
                   <h3>Bobby Kane</h3>
-                <div className="team-info">
-                  <p>CEO Founder</p>
-                 
+                  <div className="team-info">
+                    <p>CEO Founder</p>
+                  </div>
                 </div>
-                </div>
-                
               </div>
             </div>
             <div className="col-lg-3 col-sm-6">
@@ -132,40 +115,31 @@ const About = () => {
                 <div className="h-[320px] rounded-2xl overflow-hidden">
                   <img src="4.png" className="team-img" alt="pic" />
                   <div className="team-icon">
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-facebook"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
-                    
-                      <a href="#">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-facebook"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
+
+                    <a href="#">
+                      <i className="fab fa-twitter"></i>
+                    </a>
                   </div>
-                  </div>
+                </div>
                 <div>
                   <h3>Bobby Kane</h3>
-                <div className="team-info">
-                  <p>CEO Founder</p>
-                 
+                  <div className="team-info">
+                    <p>CEO Founder</p>
+                  </div>
                 </div>
-                </div>
-                
               </div>
             </div>
-
-           
           </div>
         </div>
       </div>
