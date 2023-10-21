@@ -43,9 +43,9 @@ const About = () => {
                   </div>
                 </div>
                 <div className="p-4">
-                  <h6 className="text-[#6640f4]">Bobby Kane</h6>
+                  <h6 className="text-[#6640f4] text-sm font-semibold">Bobby Kane</h6>
                   
-                    <small>CEO Founder</small>
+                    <small className="text-[#999]">CEO Founder</small>
                   
                 </div>
               </div>
