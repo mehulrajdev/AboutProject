@@ -25,19 +25,19 @@ const About = () => {
                     alt="pic"
                   />
                   <div className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around">
-                    <a href="#" className="linkj">
+                    <a href="#" className="linkj me-1">
                       <i className="fab fa-twitter"></i>
                     </a>
 
-                    <a href="#" className="linkj">
+                    <a href="#" className="linkj me-1">
                       <i className="fab fa-facebook"></i>
                     </a>
 
-                    <a href="#" className="linkj">
+                    <a href="#" className="linkj me-1">
                       <i className="fab fa-twitter"></i>
                     </a>
 
-                    <a href="#" className="linkj">
+                    <a href="#" className="linkj me-1">
                       <i className="fab fa-twitter"></i>
                     </a>
                   </div>
