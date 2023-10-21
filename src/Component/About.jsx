@@ -38,7 +38,7 @@ const About = () => {
                     </a>
 
                     <a href="#" className="linkj me-1">
-                      <i className="fab fa-twitter"></i>
+                      <i className="fab fa-linkedin"></i>
                     </a>
 
                     <a href="#" className="linkj me-1">
