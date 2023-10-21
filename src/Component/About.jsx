@@ -19,10 +19,7 @@ const About = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="team-item mb-32 mb-lg-0 ">
                 <div>
-                  <img src="1.png" className="team-img" alt="pic" /></div>
-                <div><h3>Bobby Kane</h3>
-                <div className="team-info">
-                  <p>CEO Founder</p>
+                  <img src="1.png" className="team-img" alt="pic" />
                   <ul className="team-icon">
                     <li>
                       <a href="#">
@@ -44,7 +41,11 @@ const About = () => {
                         <i className="fab fa-twitter"></i>
                       </a>
                     </li>
-                  </ul>
+                  </ul></div>
+                <div><h3>Bobby Kane</h3>
+                <div className="team-info">
+                  <p>CEO Founder</p>
+                 
                 </div></div>
                 
               </div>
