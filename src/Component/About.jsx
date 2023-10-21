@@ -78,7 +78,7 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div className="col">
+            <div className="col-lg-3 col-sm-6">
               <div className="team-item">
                 <img src="3.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
