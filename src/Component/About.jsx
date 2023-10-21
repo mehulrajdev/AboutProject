@@ -15,6 +15,41 @@ const About = () => {
             <p className="leading-[3.5rem] text-[#212529]">{message}</p>
           </div>
 
+          <div className="row">
+    <div className="col"><div className="team-item">
+                <img src="1.png" className="team-img" alt="pic" />
+                <h3>Bobby Kane</h3>
+                <div className="team-info">
+                  <p>CEO Founder</p>
+                  <ul className="team-icon">
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-facebook"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div></div>
+    <div className="col">col</div>
+    <div className="col">col</div>
+    <div className="col">col</div>
+  </div>
+
           <div className="">
             <div className="">
               <div className="team-item">
