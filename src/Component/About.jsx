@@ -6,7 +6,7 @@ const About = () => {
     <section className="bg-white px-0 py-8">
       <div className="container">
         <div className="bg-[#f1f2fa] rounded-[2rem] p-4 text-center ">
-          <h2 className=" inline-block text-xs bg-[#f7f4ff] mb-[0.5rem] px-2.5 py-[5px] rounded-[5px] text-[#B469C0]">
+          <h2 className=" inne-block text-xs bg-[#f7f4ff] mb-[0.5rem] px-2.5 py-[5px] rounded-[5px] text-[#B469C0]">
             The Team Work
           </h2>
           <div className="col-md-12 text-center">
@@ -21,26 +21,26 @@ const About = () => {
                 <div className="h-[320px] rounded-2xl overflow-hidden relative">
                   <img src="1.png" className="w-full object-cover h-full" alt="pic" />
                   <div className="absolute left-0 bottom-0 w-full p-5 z-[5]">
-                    <li>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-facebook"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
+                    </>
                   </div>
                   </div>
                 <div>
@@ -58,26 +58,26 @@ const About = () => {
                 <div className="h-[320px] rounded-2xl overflow-hidden">
                   <img src="2.png" className="team-img" alt="pic" />
                   <div className="team-icon">
-                    <li>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-facebook"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
+                    </>
                   </div>
                   </div>
                 <div>
@@ -95,26 +95,26 @@ const About = () => {
                 <div className="h-[320px] rounded-2xl overflow-hidden">
                   <img src="3.png" className="team-img" alt="pic" />
                   <div className="team-icon">
-                    <li>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-facebook"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
+                    </>
                   </div>
                   </div>
                 <div>
@@ -132,26 +132,26 @@ const About = () => {
                 <div className="h-[320px] rounded-2xl overflow-hidden">
                   <img src="4.png" className="team-img" alt="pic" />
                   <div className="team-icon">
-                    <li>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-facebook"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
-                    <li>
+                    </>
+                    <>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
                       </a>
-                    </li>
+                    </>
                   </div>
                   </div>
                 <div>
@@ -211,7 +211,7 @@ const About = () => {
     //                 <i className="fab fa-facebook-f"></i>
     //               </a>
     //               <a href="#" className="me-1">
-    //                 <i className="fab fa-linkedin-in"></i>
+    //                 <i className="fab fa-nkedin-in"></i>
     //               </a>
     //               <a href="#">
     //                 <i className="fab fa-github"></i>
@@ -247,7 +247,7 @@ const About = () => {
     //             </div>
     //           </div>
     //           <div className="divteamCard3">
-    //             <div className="linkHeading7">Andrew Robertson</div>
+    //             <div className="nkHeading7">Andrew Robertson</div>
     //             <div className="smallMarketing1">Marketing Leader</div>
     //             <div className="absolute w-[calc(100%_-_30px)] h-80 overflow-hidden rounded-[15px] top-[15px] inset-x-[15px]">
     //               <img
