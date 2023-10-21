@@ -53,6 +53,81 @@ const About = () => {
                 
               </div>
             </div>
+            <div className="col-lg-3 col-sm-6">
+              <div className="team-item mb-32 mb-lg-0 ">
+                <div className="h-[320px] rounded-2xl overflow-hidden">
+                  <img src="1.png" className="team-img" alt="pic" />
+                  <div className="team-icon">
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-facebook"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                  </div>
+                  </div>
+                <div>
+                  <h3>Bobby Kane</h3>
+                <div className="team-info">
+                  <p>CEO Founder</p>
+                 
+                </div>
+                </div>
+                
+              </div>
+            </div>
+            <div className="col-lg-3 col-sm-6">
+              <div className="team-item mb-32 mb-lg-0 ">
+                <div className="h-[320px] rounded-2xl overflow-hidden">
+                  <img src="1.png" className="team-img" alt="pic" />
+                  <div className="team-icon">
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-facebook"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                  </div>
+                  </div>
+                <div>
+                  <h3>Bobby Kane</h3>
+                <div className="team-info">
+                  <p>CEO Founder</p>
+                 
+                </div>
+                </div>
+                
+              </div>
+            </div>
+            
            
           </div>
         </div>
