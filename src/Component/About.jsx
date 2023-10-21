@@ -6,7 +6,7 @@ const About = () => {
     <section className="bg-white px-0 py-8">
       
       <div className="container">
-        <div className="bg-[#f1f2fa]">
+        <div className="bg-[#f1f2fa] rounded-none">
         <h2 className="text-center">The Team Work</h2>
           <div className="col-md-12 text-center">
             <h2 className="section-title">Our Leaders</h2>
