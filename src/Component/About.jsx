@@ -18,9 +18,9 @@ const About = () => {
           <div className="row">
             <div className="col-lg-3 col-sm-6">
               <div className="team-item mb-32 mb-lg-0 ">
-                <div>
+                <div className="img">
                   <img src="1.png" className="team-img" alt="pic" />
-                  <ul className="team-icon">
+                  <div className="team-icon">
                     <li>
                       <a href="#">
                         <i className="fab fa-twitter"></i>
@@ -41,7 +41,7 @@ const About = () => {
                         <i className="fab fa-twitter"></i>
                       </a>
                     </li>
-                  </ul></div>
+                  </div></div>
                 <div><h3>Bobby Kane</h3>
                 <div className="team-info">
                   <p>CEO Founder</p>
