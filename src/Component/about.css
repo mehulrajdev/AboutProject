@@ -40,11 +40,16 @@
   /* -webkit-transform: translateY(80px); */
   -ms-transform: translateY(80px);
   /* transform: translateY(80px); */
-  opacity: 0;
+  opacity: 1;
   /* -webkit-transition: all 0.5s ease; */
   -o-transition: all 0.5s ease;
   /* transition: all 0.5s ease; */
 }
+
+.linkj:hover{opacity: 1;
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);}
 
 /*
 .smallProject1 {
