@@ -15,7 +15,7 @@ const About = () => {
             <p className="leading-[3.5rem] text-[#212529]">{message}</p>
           </div>
 
-          <div className="row">
+          <div className="">
             <div className="">
               <div className="team-item">
                 <img src="1.png" className="team-img" alt="pic" />
