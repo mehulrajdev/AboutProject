@@ -138,9 +138,7 @@ const About = () => {
                   </ul>
                 </div>
               </div></div>
-            <div className="col">col</div>
-            <div className="col">col</div>
-            <div className="col">col</div>
+            
           </div>
         </div>
       </div>
