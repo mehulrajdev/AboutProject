@@ -4,9 +4,10 @@ const About = () => {
   let message = "The Professional Creative Team for Growth-up Works";
   return (
     <section className="bg-white px-0 py-8">
-      <h2 className="text-center">The Team Work</h2>
+      
       <div className="container">
-        <div className="ro">
+        <div className="bg-[#f1f2fa]">
+        <h2 className="text-center">The Team Work</h2>
           <div className="col-md-12 text-center">
             <h2 className="section-title">Our Leaders</h2>
             <p className="section-subtitle">{message}</p>
