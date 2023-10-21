@@ -30,6 +30,10 @@ const About = () => {
                     </a>
 
                     <a href="#" className="linkj me-1">
+                      <i className="fab fa-tiktok"></i>
+                    </a>
+
+                    <a href="#" className="linkj me-1">
                       <i className="fab fa-facebook"></i>
                     </a>
 
@@ -38,7 +42,7 @@ const About = () => {
                     </a>
 
                     <a href="#" className="linkj me-1">
-                      <i className="fab fa-twitter"></i>
+                      <i className="fab fa-github"></i>
                     </a>
                   </div>
                 </div>
