@@ -48,7 +48,7 @@ const About = () => {
               </div>
             </div>
             <div className="col-lg-3 col-sm-6">
-              <div className="team-item">
+              <div className="team-item mb-32 mb-lg-0">
                 <img src="2.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
                 <div className="team-info">
