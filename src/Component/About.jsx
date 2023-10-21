@@ -16,7 +16,8 @@ const About = () => {
           </div>
 
           <div className="row">
-    <div className="col"><div className="team-item">
+            <div className="col">
+              <div className="team-item">
                 <img src="1.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
                 <div className="team-info">
@@ -44,8 +45,10 @@ const About = () => {
                     </li>
                   </ul>
                 </div>
-              </div></div>
-              <div className="col"><div className="team-item">
+              </div>
+            </div>
+            <div className="col">
+              <div className="team-item">
                 <img src="2.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
                 <div className="team-info">
@@ -73,8 +76,10 @@ const About = () => {
                     </li>
                   </ul>
                 </div>
-              </div></div>
-              <div className="col"><div className="team-item">
+              </div>
+            </div>
+            <div className="col">
+              <div className="team-item">
                 <img src="1.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
                 <div className="team-info">
@@ -102,13 +107,12 @@ const About = () => {
                     </li>
                   </ul>
                 </div>
-              </div></div>
-    <div className="col">col</div>
-    <div className="col">col</div>
-    <div className="col">col</div>
-  </div>
-
-         
+              </div>
+            </div>
+            <div className="col">col</div>
+            <div className="col">col</div>
+            <div className="col">col</div>
+          </div>
         </div>
       </div>
     </section>
