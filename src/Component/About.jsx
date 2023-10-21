@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 const About = () => {
-  // let message ='The Professional Creative Team for Growth-up Works'
+  let message ='The Professional Creative Team for Growth-up Works'
   return (
     <section className="section-white">
       <div className="container">
