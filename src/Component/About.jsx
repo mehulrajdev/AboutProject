@@ -12,6 +12,7 @@ const About = () => {
             <p className="section-subtitle">{message}</p>
           </div>
 
+<div>
           <div className="col-sm-6 col-md-4">
             <div className="team-item">
               <img src="1.png" className="team-img" alt="pic" />
