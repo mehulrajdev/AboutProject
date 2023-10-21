@@ -43,7 +43,7 @@ const About = () => {
                   </div>
                 </div>
                 <div className="p-4">
-                  <h3>Bobby Kane</h3>
+                  <h6>Bobby Kane</h6>
                   
                     <p>CEO Founder</p>
                   
