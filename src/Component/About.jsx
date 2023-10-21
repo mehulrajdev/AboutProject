@@ -33,11 +33,11 @@ const About = () => {
                       <i className="fab fa-facebook"></i>
                     </a>
 
-                    <a href="#">
+                    <a href="#" className="linkj">
                       <i className="fab fa-twitter"></i>
                     </a>
 
-                    <a href="#">
+                    <a href="#" className="linkj">
                       <i className="fab fa-twitter"></i>
                     </a>
                   </div>
