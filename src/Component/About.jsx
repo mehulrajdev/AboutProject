@@ -43,7 +43,8 @@ const About = () => {
                     </li>
                   </div>
                   </div>
-                <div><h3>Bobby Kane</h3>
+                <div>
+                  <h3>Bobby Kane</h3>
                 <div className="team-info">
                   <p>CEO Founder</p>
                  
