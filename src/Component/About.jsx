@@ -25,7 +25,7 @@ const About = () => {
                     alt="pic"
                   />
                   <div className="absolute left-0 bottom-0 w-full p-5 z-[5]">
-                    <a href="#" className="w-[30px] h-[30px] bg-white text-[#666] inline-flex items-center justify-center text-[11px] opacity-1 rounded-[50%]">
+                    <a href="#" className="link-j">
                       <i className="fab fa-twitter"></i>
                     </a>
 
