@@ -50,7 +50,7 @@ const About = () => {
     <div className="col">col</div>
   </div>
 
-          <div className="">
+          {/* <div className="">
             <div className="">
               <div className="team-item">
                 <img src="1.png" className="team-img" alt="pic" />
@@ -175,7 +175,7 @@ const About = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
