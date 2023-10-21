@@ -109,7 +109,8 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div className="col"><div className="team-item">
+            <div className="col">
+              <div className="team-item">
                 <img src="4.png" className="team-img" alt="pic" />
                 <h3>Bobby Kane</h3>
                 <div className="team-info">
@@ -137,8 +138,8 @@ const About = () => {
                     </li>
                   </ul>
                 </div>
-              </div></div>
-            
+              </div>
+            </div>
           </div>
         </div>
       </div>
