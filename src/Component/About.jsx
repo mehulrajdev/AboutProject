@@ -41,7 +41,8 @@ const About = () => {
                         <i className="fab fa-twitter"></i>
                       </a>
                     </li>
-                  </div></div>
+                  </div>
+                  </div>
                 <div><h3>Bobby Kane</h3>
                 <div className="team-info">
                   <p>CEO Founder</p>
