@@ -3,7 +3,7 @@ import "./about.css";
 const About = () => {
   let message ='The Professional Creative Team for Growth-up Works'
   return (
-    <section className="bg-white px-0">
+    <section className="bg-white px-0 py-16">
       <div className="container">
         <div className="row">
           <div className="col-md-12 text-center">
