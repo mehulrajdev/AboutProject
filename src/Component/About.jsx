@@ -6,7 +6,7 @@ const About = () => {
     <section className="bg-white px-0 py-8">
       <div className="container">
         <div className="bg-[#f1f2fa] rounded-[2rem]">
-          <h2 className="text-center">The Team Work</h2>
+          <h2 className="text-center inline-block text-xs bg-[#f7f4ff] mb-5 px-2.5 py-[5px] rounded-[5px]">The Team Work</h2>
           <div className="col-md-12 text-center">
             <h2 className="section-title">Our Leaders</h2>
             <p className="section-subtitle">{message}</p>
