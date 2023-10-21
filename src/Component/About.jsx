@@ -19,7 +19,7 @@ const About = () => {
             <div className="col-lg-3 col-sm-6">
               <div className="team-item mb-32 mb-lg-0 ">
                 <div className="h-[320px] rounded-2xl overflow-hidden relative">
-                  <img src="1.png" className="w-full bg-cover" alt="pic" />
+                  <img src="1.png" className="w-full object-cover h-full" alt="pic" />
                   <div className="team-icon">
                     <li>
                       <a href="#">
