@@ -28,29 +28,25 @@ const About = () => {
                     <a href="#" className="linkj me-1">
                       <i className="fab fa-x-twitter"></i>
                     </a>
-
                     <a href="#" className="linkj me-1">
                       <i className="fab fa-tiktok"></i>
                     </a>
-
                     <a href="#" className="linkj me-1">
                       <i className="fab fa-facebook"></i>
                     </a>
-
                     <a href="#" className="linkj me-1">
                       <i className="fab fa-linkedin"></i>
                     </a>
-
                     <a href="#" className="linkj me-1">
                       <i className="fab fa-github"></i>
                     </a>
                   </div>
                 </div>
                 <div className="p-4">
-                  <h6 className="text-[#6640f4] text-xl font-semibold">Bobby Kane</h6>
-                  
-                    <small className="text-[#999]">CEO Founder</small>
-                  
+                  <h6 className="text-[#6640f4] text-xl font-semibold">
+                    Bobby Kane
+                  </h6>
+                  <small className="text-[#999]">CEO Founder</small>
                 </div>
               </div>
             </div>
@@ -62,15 +58,12 @@ const About = () => {
                     <a href="#">
                       <i className="fab fa-twitter"></i>
                     </a>
-
                     <a href="#">
                       <i className="fab fa-facebook"></i>
                     </a>
-
                     <a href="#">
                       <i className="fab fa-twitter"></i>
                     </a>
-
                     <a href="#">
                       <i className="fab fa-twitter"></i>
                     </a>
