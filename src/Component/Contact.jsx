@@ -6,7 +6,7 @@ const Contact = () => {
     <div>
       <section className="section-padding">
         <div className="container">
-          <div></div>
+          <div className="text-center mb-40 style-4"></div>
           <div></div>
         </div>
       </section>
