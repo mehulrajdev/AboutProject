@@ -29,7 +29,7 @@ const About = () => {
             
           }}
           onMouseOut={(e) => {
-            e.target.style.opacity = "0"; 
+            e.target.style.opacity = "1"; 
             
           }}>
                     <a href="#" className="linkj me-1"   >
