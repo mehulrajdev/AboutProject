@@ -20,7 +20,12 @@ const Contact = () => {
             </p>
           </div>
           <div className="rounded-pill border flex px-0 py-5 border-solid border-[#9993]">
-            <div></div>
+            <div>
+              <div>
+                <img src=""></img>
+              </div>
+              <div></div>
+            </div>
             <div></div>
             <div></div>
           </div>
