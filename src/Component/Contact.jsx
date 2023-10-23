@@ -19,7 +19,7 @@ const Contact = () => {
               We will contact again after receive your request in 24h
             </p>
           </div>
-          <div className="rounded-pill border flex px-0 py-5 border-solid border-[#9993]">
+          <div className="rounded-pill border flex px-0 py-3 border-solid border-[#9993]">
             <div className="commun-card">
               <div>
                 <img src="mail.png"></img>
