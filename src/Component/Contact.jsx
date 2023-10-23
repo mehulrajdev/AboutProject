@@ -10,7 +10,7 @@ const Contact = () => {
             <small className="text-xs bg-[#f7f4ff] text-[#5842bc] mb-5 px-2.5 py-[5px] rounded-[5px]">
               Contact us
             </small>
-            <h2 className="mb-20 text-4xl text-[#000] ">
+            <h2 className="mb-20 text-4xl text-[#000]  ">
               Get In<span>Touch</span>
             </h2>
             <p>We will contact again after receive your request in 24h</p>
