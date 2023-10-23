@@ -88,7 +88,7 @@ const About = () => {
               <div className="team-item mb-32 mb-lg-0 ">
                 <div className="h-[320px] rounded-2xl overflow-hidden relative">
                   <img
-                    src=".png"
+                    src="3.png"
                     className="w-full object-cover h-full"
                     alt="pic"
                   />
