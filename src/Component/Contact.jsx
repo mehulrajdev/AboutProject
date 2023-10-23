@@ -8,6 +8,7 @@ const Contact = () => {
         <div className="container">
           <div className="text-center mb-40 style-4">
             <small>Contact us</small>
+            <h2></h2>
           </div>
           <div></div>
         </div>
