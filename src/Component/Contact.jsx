@@ -42,7 +42,7 @@ const Contact = () => {
             </div>
             <div className="show">
               <div className="mr-4 w-10 h-10">
-                <img src="mail.png"></img>
+                <img src="msg.png"></img>
               </div>
               <div className="text">
                 <h5 className="text-xl text-black font-[bold] leading-[1.1] mb-0">
