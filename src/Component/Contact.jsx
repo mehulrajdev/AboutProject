@@ -4,9 +4,9 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <div className="container style-5">
-      <section className="section-padding style-5">
+      <section className="section-padding ">
         <div className="container">
-          <div className="text-center mb-8 style-4">
+          <div className="text-center mb-8 ">
             <small className="text-xs bg-[#f7f4ff] text-[#5842bc] mb-5 px-2.5 py-[5px] rounded-[5px]">
               Contact us
             </small>
@@ -19,7 +19,7 @@ const Contact = () => {
               We will contact again after receive your request in 24h
             </p>
           </div>
-          <div className="rounded-pill border flex px-0 py-3 border-solid border-[#9993]">
+          <div className="  rounded-pill border flex px-0 py-3 border-solid border-[#9993]">
             <div className="commun-card">
               <div className="mr-4 w-10 h-10">
                 <img src="mail.png"></img>
