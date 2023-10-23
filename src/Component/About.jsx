@@ -44,7 +44,7 @@ const About = () => {
                 </div>
                 <div className="p-4">
                   <h6 className="text-[#6640f4] text-xl font-semibold">
-                    
+                    Michael
                   </h6>
                   <small className="text-[#999]">CEO Founder</small>
                 </div>
