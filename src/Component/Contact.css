@@ -27,7 +27,7 @@ span {
 .show img {
   filter: drop-shadow(-10px 10px 20px #084cba77);
   -webkit-animation: blinker 1s ease-in-out infinite alternate both;
-  animation: scale_up_down 1s ease-in-out infinite alternate both;
+  animation: blinker 1s ease-in-out infinite alternate both;
 }
 @keyframes scale_up_down{
 0% {
