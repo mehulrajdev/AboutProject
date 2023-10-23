@@ -24,15 +24,15 @@ const About = () => {
                     className="w-full object-cover h-full"
                     alt="pic"
                   />
-                  <div className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around">
-                    <a href="#" className="linkj me-1" onMouseOver={(e) => {
-            e.target.style.opacity = "1"; 
+                  <div className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around" onMouseOver={(e) => {
+            e.target.style.opacity = "0"; 
             
           }}
           onMouseOut={(e) => {
             e.target.style.opacity = "0"; 
             
-          }}  >
+          }}>
+                    <a href="#" className="linkj me-1"   >
                       <i className="fab fa-x-twitter"></i>
                     </a>
                     <a href="#" className="linkj me-1">
