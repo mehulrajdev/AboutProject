@@ -146,11 +146,19 @@ const About = () => {
               <div className="team-item mb-32 mb-lg-0 ">
                 <div className="h-[320px] rounded-2xl overflow-hidden relative">
                   <img
-                    src="4.png"
+                    src="3.png"
                     className="w-full object-cover h-full"
                     alt="pic"
                   />
-                  <div className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around">
+                  <div
+                    className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around"
+                    onMouseOver={(e) => {
+                      e.target.style.opacity = "1";
+                    }}
+                    onMouseOut={(e) => {
+                      e.target.style.opacity = "0";
+                    }}
+                  >
                     <a href="#" className="linkj me-1">
                       <i className="fab fa-x-twitter"></i>
                     </a>
@@ -170,9 +178,9 @@ const About = () => {
                 </div>
                 <div className="p-4">
                   <h6 className="text-[#6640f4] text-xl font-semibold">
-                    
+                  Robert Downeye
                   </h6>
-                  <small className="text-[#999]"> </small>
+                  <small className="text-[#999]">Project Manager</small>
                 </div>
               </div>
             </div>
