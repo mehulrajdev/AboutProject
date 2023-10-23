@@ -1,4 +1,4 @@
-.leader {
+span {
   background: linear-gradient(
     90deg,
     #501e9c,
@@ -11,7 +11,6 @@
   -webkit-text-fill-color: transparent;
   font-weight: bolder;
 }
-
 
 /* .heading23 {
   background: linear-gradient(

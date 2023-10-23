@@ -12,10 +12,12 @@ const Contact = () => {
             </small>
             <h2 className="m-10 text-4xl text-[#000]  ">
               <b>
-                Get In<span>Touch</span>
+                Get In<span className="m-2">Touch</span>
               </b>
             </h2>
-            <p className="m-0 text-sm">We will contact again after receive your request in 24h</p>
+            <p className="m-0 text-sm">
+              We will contact again after receive your request in 24h
+            </p>
           </div>
           <div></div>
         </div>
