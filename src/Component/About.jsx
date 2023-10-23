@@ -170,9 +170,9 @@ const About = () => {
                 </div>
                 <div className="p-4">
                   <h6 className="text-[#6640f4] text-xl font-semibold">
-                    Andrew Robertson
+                    
                   </h6>
-                  <small className="text-[#999]">Marketing Leader </small>
+                  <small className="text-[#999]"> </small>
                 </div>
               </div>
             </div>
