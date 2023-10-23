@@ -94,7 +94,7 @@ const About = () => {
                 </div>
                 <div className="p-4">
                   <h6 className="text-[#6640f4] text-xl font-semibold">
-                  Bobby Kane
+                    Bobby Kane
                   </h6>
                   <small className="text-[#999]">CTO</small>
                 </div>
@@ -136,7 +136,7 @@ const About = () => {
                 </div>
                 <div className="p-4">
                   <h6 className="text-[#6640f4] text-xl font-semibold">
-                  Robert Downeye
+                    Robert Downeye
                   </h6>
                   <small className="text-[#999]">Project Manager</small>
                 </div>
@@ -178,7 +178,7 @@ const About = () => {
                 </div>
                 <div className="p-4">
                   <h6 className="text-[#6640f4] text-xl font-semibold">
-                  Andrew Robertson
+                    Andrew Robertson
                   </h6>
                   <small className="text-[#999]">Marketing Leader</small>
                 </div>
