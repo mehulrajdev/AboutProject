@@ -18,21 +18,22 @@ const About = () => {
           <div className="row">
             <div className="col-lg-3 col-sm-6">
               <div className="team-item mb-32 mb-lg-0 ">
-                <div className="h-[320px] rounded-2xl overflow-hidden relative" >
+                <div className="h-[320px] rounded-2xl overflow-hidden relative">
                   <img
                     src="1.png"
                     className="w-full object-cover h-full"
                     alt="pic"
                   />
-                  <div className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around"onMouseOver={(e) => {
-            e.target.style.opacity = "1"; 
-            
-          }}
-          onMouseOut={(e) => {
-            e.target.style.opacity = "0"; 
-            
-          }} >
-                    <a href="#" className="linkj me-1"   >
+                  <div
+                    className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around"
+                    onMouseOver={(e) => {
+                      e.target.style.opacity = "1";
+                    }}
+                    onMouseOut={(e) => {
+                      e.target.style.opacity = "0";
+                    }}
+                  >
+                    <a href="#" className="linkj me-1">
                       <i className="fab fa-x-twitter"></i>
                     </a>
                     <a href="#" className="linkj me-1">
@@ -163,7 +164,6 @@ const About = () => {
         </div>
       </div>
     </section>
-    
   );
 };
 
