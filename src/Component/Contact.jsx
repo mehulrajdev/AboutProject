@@ -15,7 +15,7 @@ const Contact = () => {
                 Get In<span>Touch</span>
               </b>
             </h2>
-            <p>We will contact again after receive your request in 24h</p>
+            <p className="m-0 text-sm">We will contact again after receive your request in 24h</p>
           </div>
           <div></div>
         </div>
