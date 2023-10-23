@@ -13,20 +13,19 @@ span {
 }
 
 .commun-card {
-  display: -webkit-box;
+  /* display: -webkit-box; */
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
+  /* -webkit-box-pack: center; */
   -ms-flex-pack: center;
   justify-content: center;
-  -webkit-box-align: center;
+  /* -webkit-box-align: center; */
   -ms-flex-align: center;
   align-items: center;
   width: 33%;
   border-right: 1px solid #9993;
   padding: 10px 0;
 }
-
 /* .heading23 {
   background: linear-gradient(
     90deg,
