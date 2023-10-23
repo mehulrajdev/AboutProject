@@ -27,7 +27,7 @@
   border-radius: 50%;
   background-color: #fff;
   color: #666;
-  /* display: -webkit-inline-box; */
+ 
   display: -ms-inline-flexbox;
   display: inline-flex;
   /* -webkit-box-align: center; */
