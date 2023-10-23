@@ -8,7 +8,7 @@ const Contact = () => {
         <div className="container">
           <div className="text-center mb-40 style-4">
             <small className="text-xs bg-[#f7f4ff] text-[#5842bc] mb-5 px-2.5 py-[5px] rounded-[5px]">Contact us</small>
-            <h2></h2>
+            <h2 className=""></h2>
             <p>We will contact again after receive your request in 24h</p>
           </div>
           <div></div>
