@@ -19,7 +19,7 @@ const Contact = () => {
               We will contact again after receive your request in 24h
             </p>
           </div>
-          <div></div>
+          <div className="rounded-pill"></div>
         </div>
       </section>
       <section></section>
