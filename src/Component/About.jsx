@@ -148,7 +148,7 @@ const About = () => {
                   <h6 className="text-[#6640f4] text-xl font-semibold">
                     Andrew Robertson
                   </h6>
-                  <small className="text-[#999]">Marketing Manager</small>
+                  <small className="text-[#999]">Marketing </small>
                 </div>
               </div>
             </div>
