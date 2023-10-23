@@ -36,7 +36,7 @@ const Contact = () => {
               </div>
               <div className="text">
                 <h5 className="text-xl text-black font-[bold] leading-[1.1] mb-0">
-                  contact@Iteck.com
+                  58 Howard St, Toronto
                 </h5>
               </div>
             </div>
