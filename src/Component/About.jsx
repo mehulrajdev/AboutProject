@@ -80,7 +80,7 @@ const About = () => {
                   <h6 className="text-[#6640f4] text-xl font-semibold">
                     Bobby Kane
                   </h6>
-                  <small className="text-[#999]">CEO Founder</small>
+                  <small className="text-[#999]">CTO</small>
                 </div>
               </div>
             </div>
