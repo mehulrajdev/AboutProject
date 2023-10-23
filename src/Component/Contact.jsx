@@ -25,7 +25,7 @@ const Contact = () => {
                 <img src="mail.png"></img>
               </div>
               <div className="text">
-                <h5></h5>
+                <h5>contact@Iteck.com</h5>
               </div>
             </div>
             <div></div>
