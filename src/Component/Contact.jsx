@@ -9,6 +9,7 @@ const Contact = () => {
           <div className="text-center mb-40 style-4">
             <small>Contact us</small>
             <h2></h2>
+            <p></p>
           </div>
           <div></div>
         </div>
