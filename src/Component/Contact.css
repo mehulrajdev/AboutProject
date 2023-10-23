@@ -1,4 +1,16 @@
-
+.leader {
+  background: linear-gradient(
+    90deg,
+    #501e9c,
+    #8169f1 30%,
+    #8169f1 30%,
+    #a44cee 73%,
+    #ff847f
+  );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bolder;
+}
 
 
 /* .heading23 {
