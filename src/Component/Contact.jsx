@@ -4,7 +4,7 @@ import "./Contact.css";
 const Contact = () => {
   return (
     <div>
-      <section></section>
+      <section className="section-padding"></section>
       <section></section>
     </div>
     // <div className="mainSection1">

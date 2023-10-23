@@ -7,7 +7,7 @@ import About from "./Component/About";
 const App = () => (
   <div className="App">
     <About />
-    {/* <Contact/> */}
+    <Contact/>
   </div>
 );
 
