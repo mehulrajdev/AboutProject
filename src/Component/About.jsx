@@ -25,7 +25,7 @@ const About = () => {
                     alt="pic"
                   />
                   <div className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around">
-                    <a href="#" className="linkj me-1">
+                    <a href="#" className="linkj me-1" onMouseOver={} onMouseOut={}>
                       <i className="fab fa-x-twitter"></i>
                     </a>
                     <a href="#" className="linkj me-1">
