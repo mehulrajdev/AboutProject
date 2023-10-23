@@ -11,7 +11,9 @@ const Contact = () => {
               Contact us
             </small>
             <h2 className="mb-20 text-4xl text-[#000]  ">
-              <b>Get In<span>Touch</span></b>
+              <b>
+                Get In<span>Touch</span>
+              </b>
             </h2>
             <p>We will contact again after receive your request in 24h</p>
           </div>
