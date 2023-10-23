@@ -3,7 +3,10 @@ import "./Contact.css";
 
 const Contact = () => {
   return (
-    <div></div>
+    <div>
+      <section></section>
+      <section></section>
+    </div>
     // <div className="mainSection1">
     //   <div className="absolute left-[calc(50%_-_40.87px)] bg-[#f7f4ff] w-[81.73px] h-[30.39px] text-xs text-[#5842bc] rounded-[5px] top-0">
     //     <div className="absolute left-[calc(50%_-_30.87px)] leading-[20.4px] flex items-center justify-center w-[62.12px] h-[15px] top-[7px]">
