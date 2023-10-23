@@ -120,31 +120,35 @@ const About = () => {
             </div>
             <div className="col-lg-3 col-sm-6">
               <div className="team-item mb-32 mb-lg-0 ">
-                <div className="h-[320px] rounded-2xl overflow-hidden">
-                  <img src="4.png" className="team-img" alt="pic" />
-                  <div className="team-icon">
-                    <a href="#">
-                      <i className="fab fa-twitter"></i>
+                <div className="h-[320px] rounded-2xl overflow-hidden relative">
+                  <img
+                    src="3.png"
+                    className="w-full object-cover h-full"
+                    alt="pic"
+                  />
+                  <div className="absolute left-0 bottom-0 w-full p-3 z-[5] flex justify-around">
+                    <a href="#" className="linkj me-1">
+                      <i className="fab fa-x-twitter"></i>
                     </a>
-
-                    <a href="#">
+                    <a href="#" className="linkj me-1">
+                      <i className="fab fa-tiktok"></i>
+                    </a>
+                    <a href="#" className="linkj me-1">
                       <i className="fab fa-facebook"></i>
                     </a>
-
-                    <a href="#">
-                      <i className="fab fa-twitter"></i>
+                    <a href="#" className="linkj me-1">
+                      <i className="fab fa-linkedin"></i>
                     </a>
-
-                    <a href="#">
-                      <i className="fab fa-twitter"></i>
+                    <a href="#" className="linkj me-1">
+                      <i className="fab fa-github"></i>
                     </a>
                   </div>
                 </div>
-                <div>
-                  <h3>Bobby Kane</h3>
-                  <div className="team-info">
-                    <p>CEO Founder</p>
-                  </div>
+                <div className="p-4">
+                  <h6 className="text-[#6640f4] text-xl font-semibold">
+                    Robert Downey
+                  </h6>
+                  <small className="text-[#999]">Project Manager</small>
                 </div>
               </div>
             </div>
