@@ -30,7 +30,7 @@ const Contact = () => {
                 </h5>
               </div>
             </div>
-            <div className="show">
+            <div className="commun-card">
               <div className="mr-4 w-10 h-10">
                 <img src="mail.png"></img>
               </div>
