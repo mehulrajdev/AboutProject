@@ -23,6 +23,12 @@ span {
   border-right: 1px solid #9993;
   padding: 8px 0;
 }
+
+.show img {
+  filter: drop-shadow(-10px 10px 20px #084cba77);
+  -webkit-animation: scale_up_down 1s ease-in-out infinite alternate both;
+  animation: scale_up_down 1s ease-in-out infinite alternate both;
+}
 /* .heading23 {
   background: linear-gradient(
     90deg,
