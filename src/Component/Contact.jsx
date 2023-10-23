@@ -5,7 +5,10 @@ const Contact = () => {
   return (
     <div>
       <section className="section-padding">
-        <div className="container"></div>
+        <div className="container">
+          <div></div>
+          <div></div>
+        </div>
       </section>
       <section></section>
     </div>
