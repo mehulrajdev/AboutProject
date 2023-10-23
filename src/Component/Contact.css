@@ -12,7 +12,7 @@ span {
   font-weight: bolder;
 }
 
-.show {
+.commun-card {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-pack: center;
