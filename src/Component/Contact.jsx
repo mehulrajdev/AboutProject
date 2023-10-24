@@ -59,7 +59,9 @@ const Contact = () => {
             <div className="row justify-center">
               <div className="col-lg-8">
                 <form method="post" action="" className="form">
-                  <p className="text-xs text-center mb-6"></p>
+                  <p className="text-xs text-center mb-6">
+                    The field is required mark as *
+                  </p>
                   <div></div>
                 </form>
               </div>
