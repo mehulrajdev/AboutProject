@@ -41,7 +41,7 @@ span {
   }
 }
 
-.atrate {
+/* .atrate {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -57,4 +57,4 @@ span {
   border-bottom-left-radius: 30px;
   pointer-events: none;
   max-width: 30%;
-}
+} */
