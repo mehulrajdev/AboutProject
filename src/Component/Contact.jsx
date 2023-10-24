@@ -94,9 +94,9 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-6">
-                      <div className="mb-5 form-group">
+                      <div className="mb-3 form-group">
                         <input
-                          name="name"
+                          name="webpage"
                           placeholder="Your Website (option)"
                           className="form-control"
                           type="text"
