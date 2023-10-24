@@ -53,7 +53,11 @@ const Contact = () => {
           </div>
         </div>
       </section>
-      <section className="section-padding pt-0"></section>
+      <section className="section-padding pt-0">
+        <div>
+          
+        </div>
+      </section>
     </div>
     // <div className="mainSection1">
     //   <div className="absolute left-[calc(50%_-_40.87px)] bg-[#f7f4ff] w-[81.73px] h-[30.39px] text-xs text-[#5842bc] rounded-[5px] top-0">
