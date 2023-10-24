@@ -97,7 +97,7 @@ const Contact = () => {
                       <div className="mb-5 form-group">
                         <input
                           name="name"
-                          placeholder="Name"
+                          placeholder="Your Website (option)"
                           className="form-control"
                           type="text"
                         ></input>
