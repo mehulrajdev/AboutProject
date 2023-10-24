@@ -135,6 +135,15 @@ const Contact = () => {
                           id="flexCheckDefault"
                           className="form-check-input me-2 mt-0"
                         ></input>
+                        <label
+                          htmlFor="flexCheckDefault"
+                          className="form-check-label small"
+                        >
+                          By submitting, I’m agreed to the
+                          <a href="#" className="text-decoration-underline">
+                            Terms &amp; Conditons
+                          </a>
+                        </label>
                       </div>
                     </div>
                     <div className="col-lg-12 text-center"></div>
