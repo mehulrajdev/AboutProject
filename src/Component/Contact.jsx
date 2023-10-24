@@ -62,7 +62,9 @@ const Contact = () => {
                   <p className="text-xs text-center mb-6 text-[#dc3545]">
                     The field is required mark as *
                   </p>
-                  <div className="row"></div>
+                  <div className="row">
+                    <div></div>
+                  </div>
                 </form>
               </div>
             </div>
