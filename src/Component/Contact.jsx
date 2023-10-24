@@ -64,13 +64,13 @@ const Contact = () => {
                   </p>
                   <div className="row">
                     <div className="col-lg-6"></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
-                    <div></div>
+                    <div className="col-lg-6"></div>
+                    <div className="col-lg-6"></div>
+                    <div className="col-lg-6"></div>
+                    <div className="col-lg-6"></div>
+                    <div className="col-lg-6"></div>
+                    <div className="col-lg-6"></div>
+                    <div className="col-lg-6"></div>
                   </div>
                 </form>
               </div>
