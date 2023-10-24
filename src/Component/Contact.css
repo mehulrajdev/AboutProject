@@ -85,8 +85,8 @@ span {
     transparent
   );
   background-size: 400% 400%;
-  -webkit-animation: gradient 20s linear infinite;
-  animation: gradient 20s linear infinite;
+  -webkit-animation: change 20s linear infinite;
+  animation: change 20s linear infinite;
   border-radius: 30px;
   overflow: hidden;
 }
