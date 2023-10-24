@@ -56,7 +56,9 @@ const Contact = () => {
       <section className="section-padding pt-0">
         <div className="container">
           <div className="detail">
-            <div className="row justify-center"></div>
+            <div className="row justify-center">
+              <div className="col-lg-8"></div>
+            </div>
             <img src="atrate.png" className="atrate"></img>
             <img src="downmail.png" className="dmail"></img>
           </div>
