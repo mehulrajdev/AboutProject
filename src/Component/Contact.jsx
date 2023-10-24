@@ -57,7 +57,7 @@ const Contact = () => {
         <div className="container">
           <div>
             <div></div>
-            <img src="atrate.png"></img>
+            <img src="atrate.png" className="atrate"></img>
             <img src="downmail.png"></img>
           </div>
         </div>
