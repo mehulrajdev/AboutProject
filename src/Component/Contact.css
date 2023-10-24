@@ -12,6 +12,10 @@ span {
   font-weight: bolder;
 }
 
+.section-padding{
+
+}
+
 .show {
   display: -ms-flexbox;
   display: flex;
