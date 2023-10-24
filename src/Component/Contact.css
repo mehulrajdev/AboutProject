@@ -49,3 +49,12 @@ span {
   pointer-events: none;
   max-width: 20%;
 }
+
+.dmail {
+  position: absolute;
+  right: -150px;
+  top: 100px;
+  border-bottom-left-radius: 30px;
+  pointer-events: none;
+  max-width: 30%;
+}
