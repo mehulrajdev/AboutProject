@@ -58,7 +58,7 @@ const Contact = () => {
           <div className="detail">
             <div className="row justify-center">
               <div className="col-lg-8">
-                <form method="post" action=""></form>
+                <form method="post" action="" className="form"></form>
               </div>
             </div>
             <img src="atrate.png" className="atrate"></img>
