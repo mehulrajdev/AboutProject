@@ -55,7 +55,7 @@ const Contact = () => {
       </section>
       <section className="section-padding pt-0">
         <div className="container">
-          <div>
+          <div className="detail">
             <div></div>
             <img src="atrate.png" className="atrate"></img>
             <img src="downmail.png" className="dmail"></img>
