@@ -65,7 +65,12 @@ const Contact = () => {
                   <div className="row">
                     <div className="col-lg-6">
                       <div className="mb-5 form-group">
-                      <input name="name" placeholder="Name" className="form-control" type="text"></input>
+                        <input
+                          name="name"
+                          placeholder="Name"
+                          className="form-control"
+                          type="text"
+                        ></input>
                       </div>
                     </div>
                     <div className="col-lg-6"></div>
