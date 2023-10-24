@@ -41,13 +41,12 @@ span {
   }
 }
 
-
-.detail{
+.detail {
   position: relative;
-    border-top: 10px solid #6640f4;
-    border-top-right-radius: 40px;
-    border-top-left-radius: 40px;
-    padding: 100px 15px
+  border-top: 10px solid #6640f4;
+  border-top-right-radius: 40px;
+  border-top-left-radius: 40px;
+  padding: 100px 15px;
 }
 
 /* .atrate {
