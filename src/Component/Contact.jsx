@@ -63,7 +63,9 @@ const Contact = () => {
                     The field is required mark as *
                   </p>
                   <div className="row">
-                    <div className="col-lg-6"></div>
+                    <div className="col-lg-6">
+                      <div className="mb-5"></div>
+                    </div>
                     <div className="col-lg-6"></div>
                     <div className="col-lg-6"></div>
                     <div className="col-lg-6"></div>
