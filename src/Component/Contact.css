@@ -103,6 +103,14 @@ span {
     background-position: 0% 50%;
   }
 }
+
+.form-control{
+  border: 1px solid #9994;
+    border-radius: 30px;
+    min-height: 50px;
+    font-size: 12px;
+    padding: 10px 25px
+}
 /* .atrate {
   position: absolute;
   left: 0;
