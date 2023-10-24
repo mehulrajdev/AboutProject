@@ -59,7 +59,7 @@ const Contact = () => {
             <div className="row justify-center">
               <div className="col-lg-8">
                 <form method="post" action="" className="form">
-                  <p></p>
+                  <p className="text-xs"></p>
                   <div></div>
                 </form>
               </div>
