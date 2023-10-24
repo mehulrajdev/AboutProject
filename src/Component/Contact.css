@@ -7,7 +7,7 @@ span {
     #a44cee 73%,
     #ff847f
   );
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bolder;
 }
@@ -123,7 +123,7 @@ span {
   -ms-flex-pack: center;
   justify-content: center;
 }
-/* .atrate {
+.atrate {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -134,9 +134,20 @@ span {
 
 .dmail {
   position: absolute;
-  right: -150px;
-  top: 100px;
-  border-bottom-left-radius: 30px;
-  pointer-events: none;
-  max-width: 30%;
-} */
+  top: 60px;
+  right: -40px;
+  max-width: 20%;
+}
+
+@media screen and (max-width: 991px) {
+  .showall {
+    flex-direction: column;
+    border-radius: 20px !important;
+  }
+  .show {
+    width: 100%;
+    -ms-flex-pack: start;
+    justify-content: start;
+    padding: 30px !important;
+  }
+}

@@ -7,7 +7,7 @@
     #a44cee 73%,
     #ff847f
   );
-  -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bolder;
 }
@@ -34,9 +34,9 @@
   -ms-flex-pack: center;
   justify-content: center;
   font-size: 11px;
-  -ms-transform: translateY(80px);
-  /* opacity: 0; */
-  -o-transition: all 0.5s ease;
+  transform: translateY(80px);
+  opacity: 1;
+  transition: all 0.5s ease;
 }
 
 /* .dot {
