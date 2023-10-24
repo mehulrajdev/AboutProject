@@ -58,6 +58,7 @@ const Contact = () => {
           <div>
             <div></div>
             <img src=""></img>
+            <img src=""></img>
           </div>
         </div>
       </section>
