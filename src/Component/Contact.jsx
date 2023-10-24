@@ -119,7 +119,9 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-12">
-                      <div className="form-group"></div>
+                      <div className="form-group">
+                      <textarea rows="10" name="message" placeholder="How can we help you?" className="form-control"></textarea>
+                      </div>
                     </div>
                     <div className="col-lg-12 text-center"></div>
                     <div className="col-lg-12 text-center"></div>
