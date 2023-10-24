@@ -69,8 +69,8 @@ const Contact = () => {
                     <div className="col-lg-6"></div>
                     <div className="col-lg-12"></div>
                     <div className="col-lg-12"></div>
-                    <div className="col-lg-6"></div>
-                    <div className="col-lg-6"></div>
+                    <div className="col-lg-12 text-center"></div>
+                    <div className="col-lg-12 text-center"></div>
                   </div>
                 </form>
               </div>
