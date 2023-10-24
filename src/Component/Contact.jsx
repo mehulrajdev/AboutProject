@@ -103,7 +103,9 @@ const Contact = () => {
                         ></input>
                       </div>
                     </div>
-                    <div className="col-lg-12"></div>
+                    <div className="col-lg-12">
+                      <div className="mb-3 form-group"></div>
+                    </div>
                     <div className="col-lg-12"></div>
                     <div className="col-lg-12 text-center"></div>
                     <div className="col-lg-12 text-center"></div>
