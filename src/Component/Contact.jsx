@@ -130,7 +130,7 @@ const Contact = () => {
                     </div>
                     <div className="col-lg-12 text-center">
                       <div className="inline-flex mt-3 mb-3 form-check">
-                      <input type="checkbox" id="flexCheckDefault" class="form-check-input me-2 mt-0">
+                      <input type="checkbox" id="flexCheckDefault" className="form-check-input me-2 mt-0"></input>
                       </div>
                     </div>
                     <div className="col-lg-12 text-center"></div>
