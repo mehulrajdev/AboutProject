@@ -84,10 +84,10 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-6">
-                      <div className="mb-5 form-group">
+                      <div className="mb-3 form-group">
                         <input
-                          name="name"
-                          placeholder="Name"
+                          name="phone"
+                          placeholder="Phone Number (option)"
                           className="form-control"
                           type="text"
                         ></input>
