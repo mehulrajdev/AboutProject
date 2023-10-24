@@ -146,7 +146,13 @@ const Contact = () => {
                         </label>
                       </div>
                     </div>
-                    <div className="col-lg-12 text-center"></div>
+                    <div className="col-lg-12 text-center">
+                      <input
+                        type="submit"
+                        value="Send Your Request"
+                        className="btn rounded-pill bg-blue4 text-white fs-12px fw-bold text-light"
+                      ></input>
+                    </div>
                   </div>
                 </form>
               </div>
