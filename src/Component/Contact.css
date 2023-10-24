@@ -113,6 +113,16 @@ span {
   padding: 10px 25px;
 }
 
+.btn {
+  padding: 12px 30px;
+  position: relative;
+  overflow: hidden;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  text-align: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
 /* .atrate {
   position: absolute;
   left: 0;

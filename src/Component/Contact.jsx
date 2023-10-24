@@ -150,7 +150,7 @@ const Contact = () => {
                       <input
                         type="submit"
                         value="Send Your Request"
-                        className="btn rounded-pill bg-blue4 text-white fs-12px fw-bold text-light"
+                        className="btn rounded-pill bg-blue4 text-white text-xs fw-bold text-light"
                       ></input>
                     </div>
                   </div>
