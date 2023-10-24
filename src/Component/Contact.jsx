@@ -105,8 +105,14 @@ const Contact = () => {
                     </div>
                     <div className="col-lg-12">
                       <div className="mb-3 form-group">
-                        <select name="select" value="How can we help?" className="form-select">
-                          <option value="how we help"> How can we help you?</option>
+                        <select
+                          name="select"
+                          value="How can we help?"
+                          className="form-select"
+                        >
+                          <option value="how we help">
+                            How can we help you?
+                          </option>
                           <option value="1"> Option 1</option>
                           <option value="2"> Option 2</option>
                         </select>
