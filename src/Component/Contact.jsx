@@ -64,7 +64,7 @@ const Contact = () => {
                   </p>
                   <div className="row">
                     <div className="col-lg-6">
-                      <div className="mb-5">
+                      <div className="mb-5 form-group">
                       <input name="name" placeholder="Name" className="form-control" type="text"></input>
                       </div>
                     </div>
