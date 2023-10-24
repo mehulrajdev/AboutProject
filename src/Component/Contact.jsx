@@ -79,7 +79,7 @@ const Contact = () => {
                           name="email"
                           placeholder="Email Address *"
                           className="form-control"
-                          type="text"
+                          type="email"
                         ></input>
                       </div>
                     </div>
@@ -89,7 +89,7 @@ const Contact = () => {
                           name="phone"
                           placeholder="Phone Number (option)"
                           className="form-control"
-                          type="text"
+                          type="tel"
                         ></input>
                       </div>
                     </div>
