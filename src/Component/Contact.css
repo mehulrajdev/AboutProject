@@ -53,6 +53,9 @@ span {
   padding: 100px 15px;
 }
 
+.detail::before{
+
+}
 /* .atrate {
   position: absolute;
   left: 0;
