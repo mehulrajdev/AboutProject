@@ -55,7 +55,9 @@ const Contact = () => {
       </section>
       <section className="section-padding pt-0">
         <div className="container">
-
+          <div>
+            
+          </div>
         </div>
       </section>
     </div>
