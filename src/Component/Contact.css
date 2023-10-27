@@ -193,5 +193,10 @@ span {
   height: 2.5rem;
 }
 .com{
-  
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  color: #000;
+  font-family: bold;
+  line-height: 1.1;
+  margin-bottom: 0;
 }
