@@ -51,9 +51,7 @@ const Contact = () => {
             <div className="row fill">
               <div className="col-lg-8">
                 <form method="post" action="" className="form">
-                  <p className="mark">
-                    The field is required mark as *
-                  </p>
+                  <p className="mark">The field is required mark as *</p>
                   <div className="row">
                     <div className="col-lg-6">
                       <div className="mb-3 form-group">
