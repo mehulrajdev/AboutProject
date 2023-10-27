@@ -140,7 +140,7 @@ const Contact = () => {
                       <input
                         type="submit"
                         value="Send Your Request"
-                        className="btn rounded-pill  text-white text-xs bg-[#5842bc] font-bold"
+                        className="btn rounded-pill"
                       ></input>
                     </div>
                   </div>

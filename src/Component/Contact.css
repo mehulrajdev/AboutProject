@@ -122,6 +122,11 @@ span {
   text-align: center;
   -ms-flex-pack: center;
   justify-content: center;
+  color: white;
+  background-color: #5842bc;
+  font-size: 0.75rem;
+  line-height: 1rem;
+  font-weight: 700;
 }
 .atrate {
   position: absolute;
@@ -212,7 +217,7 @@ span {
   background-color: #f2f2f8;
 }
 .place {
-  margin-bottom: 0.75rem;
+  margin-bottom: 1.75rem;
 }
 .two {
   text-align: center;
