@@ -91,7 +91,7 @@ span {
   overflow: hidden;
 }
 
-@keyframes change {
+@keyframes changes {
   0% {
     background-position: 0% 50%;
   }
