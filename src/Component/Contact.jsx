@@ -119,7 +119,7 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-12 two">
-                      <div className="inline-flex mt-3 place form-check">
+                      <div className="two_detail place form-check">
                         <input
                           type="checkbox"
                           id="flexCheckDefault"

@@ -217,3 +217,7 @@ span {
 .two{
   text-align: center;
 }
+.two_detail{
+  display: inline-flex;
+  margin-top: 0.75rem;
+}
