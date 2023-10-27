@@ -48,7 +48,7 @@ const Contact = () => {
       <section className="section-padding pt-0">
         <div className="container">
           <div className="detail">
-            <div className="row justify-center">
+            <div className="row fill">
               <div className="col-lg-8">
                 <form method="post" action="" className="form">
                   <p className="text-xs text-center mb-6 text-[#dc3545]">

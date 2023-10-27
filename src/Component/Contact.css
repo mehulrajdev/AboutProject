@@ -200,3 +200,6 @@ span {
   line-height: 1.1;
   margin-bottom: 0;
 }
+.fill {
+  justify-content: center;
+}
