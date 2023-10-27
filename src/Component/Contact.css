@@ -128,6 +128,7 @@ span {
   line-height: 1rem;
   font-weight: 700;
 }
+
 .atrate {
   position: absolute;
   left: 0;
@@ -144,12 +145,11 @@ span {
   max-width: 24%;
 }
 
-
-
 .contact {
   text-align: center;
   margin-bottom: 2rem;
 }
+
 .xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -220,7 +220,7 @@ span {
 }
 
 
-responsive
+/* responsive */
 
 @media screen and (max-width: 991px) {
   .showall {
