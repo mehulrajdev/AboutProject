@@ -118,7 +118,7 @@ const Contact = () => {
                         ></textarea>
                       </div>
                     </div>
-                    <div className="col-lg-12 text-center">
+                    <div className="col-lg-12 two">
                       <div className="inline-flex mt-3 place form-check">
                         <input
                           type="checkbox"
@@ -136,7 +136,7 @@ const Contact = () => {
                         </label>
                       </div>
                     </div>
-                    <div className="col-lg-12 text-center">
+                    <div className="col-lg-12 two">
                       <input
                         type="submit"
                         value="Send Your Request"
