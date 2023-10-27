@@ -54,7 +54,7 @@ const Contact = () => {
                   <p className="mark">The field is required mark as *</p>
                   <div className="row">
                     <div className="col-lg-6">
-                      <div className="mb-3 form-group">
+                      <div className="place form-group">
                         <input
                           name="name"
                           placeholder="Name"
@@ -64,7 +64,7 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-6">
-                      <div className="mb-3 form-group">
+                      <div className="place form-group">
                         <input
                           name="email"
                           placeholder="Email Address *"
@@ -74,7 +74,7 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-6">
-                      <div className="mb-3 form-group">
+                      <div className="place form-group">
                         <input
                           name="phone"
                           placeholder="Phone Number (option)"
@@ -84,7 +84,7 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-6">
-                      <div className="mb-3 form-group">
+                      <div className="place form-group">
                         <input
                           name="webpage"
                           placeholder="Your Website (option)"
@@ -94,7 +94,7 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-12">
-                      <div className="mb-3 form-group">
+                      <div className="place form-group">
                         <select
                           name="select"
                           value="How can we help?"
@@ -119,7 +119,7 @@ const Contact = () => {
                       </div>
                     </div>
                     <div className="col-lg-12 text-center">
-                      <div className="inline-flex mt-3 mb-3 form-check">
+                      <div className="inline-flex mt-3 place form-check">
                         <input
                           type="checkbox"
                           id="flexCheckDefault"
