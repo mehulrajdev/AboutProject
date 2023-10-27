@@ -162,4 +162,7 @@ span {
   line-height: 1rem;
   background-color: #f7f4ff;
   color: #5842bc;
+  margin-bottom: 1.25rem;
+  padding: 5px 10px;
+  border-radius: 5px;
 }
