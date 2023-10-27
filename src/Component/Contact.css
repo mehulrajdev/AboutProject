@@ -175,11 +175,15 @@ span {
 .touch {
   margin: 0.5rem;
 }
-.c24{
+.c24 {
   margin: 0px;
   font-size: 0.875rem;
   line-height: 1.25rem;
 }
-.showall{
-  
+.showall {
+  border-width: 1px;
+  display: flex;
+  padding: 0.75rem 0;
+  border-style: solid;
+  border-color: #9993;
 }
