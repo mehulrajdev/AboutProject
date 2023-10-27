@@ -19,7 +19,7 @@ const Contact = () => {
           </div>
           <div className=" showall rounded-pill">
             <div className="show">
-              <div className=" mm">
+              <div className=" mmm">
                 <img src="mail.png"></img>
               </div>
               <div className="text">
@@ -29,7 +29,7 @@ const Contact = () => {
               </div>
             </div>
             <div className="show">
-              <div className="mm">
+              <div className="mmm">
                 <img src="map.png"></img>
               </div>
               <div className="text">
@@ -39,7 +39,7 @@ const Contact = () => {
               </div>
             </div>
             <div className="show">
-              <div className="mm">
+              <div className="mmm">
                 <img src="msg.png"></img>
               </div>
               <div className="text">
