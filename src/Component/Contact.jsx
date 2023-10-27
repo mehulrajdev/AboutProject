@@ -123,7 +123,7 @@ const Contact = () => {
                         <input
                           type="checkbox"
                           id="flexCheckDefault"
-                          className="form-check-input me-2 mt-0"
+                          className="form-check-input chek"
                         ></input>
                         <label
                           htmlFor="flexCheckDefault"
