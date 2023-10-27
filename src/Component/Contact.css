@@ -86,7 +86,7 @@ span {
   );
   background-size: 400% 400%;
   -webkit-animation: changes 20s linear infinite;
-  animation: change 20s linear infinite;
+  animation: changes 20s linear infinite;
   border-radius: 30px;
   overflow: hidden;
 }
