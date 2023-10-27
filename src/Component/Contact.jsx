@@ -23,9 +23,7 @@ const Contact = () => {
                 <img src="mail.png"></img>
               </div>
               <div className="text">
-                <h5 className=" com">
-                  contact@Iteck.com
-                </h5>
+                <h5 className=" com">contact@Iteck.com</h5>
               </div>
             </div>
             <div className="show">
@@ -33,9 +31,7 @@ const Contact = () => {
                 <img src="map.png"></img>
               </div>
               <div className="text">
-                <h5 className="com">
-                  58 Howard St, Toronto
-                </h5>
+                <h5 className="com">58 Howard St, Toronto</h5>
               </div>
             </div>
             <div className="show">
@@ -43,9 +39,7 @@ const Contact = () => {
                 <img src="msg.png"></img>
               </div>
               <div className="text">
-                <h5 className="com">
-                  (+23) 5535 68 68
-                </h5>
+                <h5 className="com">(+23) 5535 68 68</h5>
               </div>
             </div>
           </div>
