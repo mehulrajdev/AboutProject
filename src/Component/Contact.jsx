@@ -10,7 +10,7 @@ const Contact = () => {
             <small className=" xs ">Contact us</small>
             <h2 className="git">
               <b>
-                Get In<span className="m-2">Touch</span>
+                Get In<span className=" touch">Touch</span>
               </b>
             </h2>
             <p className="m-0 text-sm">
