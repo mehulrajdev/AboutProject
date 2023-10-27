@@ -144,19 +144,7 @@ span {
   max-width: 24%;
 }
 
-@media screen and (max-width: 991px) {
-  .showall {
-    flex-direction: column;
-    border-radius: 20px !important;
-  }
 
-  .show {
-    width: 100%;
-    -ms-flex-pack: start;
-    justify-content: start;
-    padding: 30px !important;
-  }
-}
 
 .contact {
   text-align: center;
