@@ -7,10 +7,8 @@ const Contact = () => {
       <section className="section-padding ">
         <div className="container">
           <div className="contact">
-            <small className=" xs ">
-              Contact us
-            </small>
-            <h2 className="m-10 text-4xl text-[#000]  ">
+            <small className=" xs ">Contact us</small>
+            <h2 className="git">
               <b>
                 Get In<span className="m-2">Touch</span>
               </b>
