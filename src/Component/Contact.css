@@ -214,13 +214,14 @@ span {
 .place {
   margin-bottom: 0.75rem;
 }
-.two{
+.two {
   text-align: center;
 }
-.two_detail{
+.two_detail {
   display: inline-flex;
   margin-top: 0.75rem;
 }
-.chek{
-  
+.chek {
+  margin-inline-end: 0.5rem;
+  margin-top: 0px;
 }
