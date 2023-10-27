@@ -6,7 +6,7 @@ const Contact = () => {
     <div className="container ">
       <section className="section-padding ">
         <div className="container">
-          <div className="text-center mb-8 ">
+          <div className="text-center mb-8 contact">
             <small className="text-xs bg-[#f7f4ff] text-[#5842bc] mb-5 px-2.5 py-[5px] rounded-[5px]">
               Contact us
             </small>
