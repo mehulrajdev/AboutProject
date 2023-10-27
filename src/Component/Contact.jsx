@@ -19,7 +19,7 @@ const Contact = () => {
           </div>
           <div className=" showall rounded-pill">
             <div className="show">
-              <div className="mr-4 w-10 h-10">
+              <div className="mmm mr-4 w-10 h-10">
                 <img src="mail.png"></img>
               </div>
               <div className="text">
