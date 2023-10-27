@@ -7,7 +7,7 @@ const Contact = () => {
       <section className="section-padding ">
         <div className="container">
           <div className="contact">
-            <small className=" xs text-xs bg-[#f7f4ff] text-[#5842bc] mb-5 px-2.5 py-[5px] rounded-[5px]">
+            <small className=" xs  text-[#5842bc] mb-5 px-2.5 py-[5px] rounded-[5px]">
               Contact us
             </small>
             <h2 className="m-10 text-4xl text-[#000]  ">
